@@ -1,0 +1,33 @@
+﻿@page
+@model CheckEmail
+@{
+    ViewData["Title"] = "CheckEmail";
+}
+@using Domain.Interfaces.Application
+@inject Domain.Interfaces.Application.IUsuarioService  _service
+
+<header>
+    <p class="text-danger">Confirme Seu Email para aprender!</p>
+    <p>Olhe seu Email e vê se seu ip de acesso chegou na sua caixa eletrônica!</p>
+</header>
+<div class="row">
+    <div class="col-md-4">
+        <form method="post" action="" novalidate="novalidate" enctype="multipart/form-data">
+            <div class="form-group">
+                <label asp-for="Input.PhotoAvatar" class="col-sm-6 col-form-label"></label>
+                <div class="col-sm-6">
+                    <input asp-for="Input.PhotoAvatar" type="file" required>
+                    <span asp-validation-for="Input.PhotoAvatar"></span>
+                </div>
+            </div>
+            <div class="form-group">
+                <label for="Input_IP">IP de Acesso:</label>
+                <input class="form-control" type="text" placeholder="Internet Protocol" name="ip">
+            </div>
+            <button type="submit" class="btn btn-success">Confirmar</button>
+        </form>
+    </div>
+</div>
+<script>
+   alert("@Model.Saudacao");
+</script>

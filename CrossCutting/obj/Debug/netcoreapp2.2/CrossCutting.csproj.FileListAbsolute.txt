@@ -1,0 +1,256 @@
+C:\Inferno\CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.deps.json
+C:\Inferno\CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.dll
+C:\Inferno\CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.pdb
+C:\Inferno\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.AssemblyInfoInputs.cache
+C:\Inferno\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.AssemblyInfo.cs
+C:\Inferno\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.dll
+C:\Inferno\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.pdb
+C:\Users\Administrador\Pictures\CursoTestUnity\DDD\CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.deps.json
+C:\Users\Administrador\Pictures\CursoTestUnity\DDD\CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.dll
+C:\Users\Administrador\Pictures\CursoTestUnity\DDD\CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.pdb
+C:\Users\Administrador\Pictures\CursoTestUnity\DDD\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.csprojAssemblyReference.cache
+C:\Users\Administrador\Pictures\CursoTestUnity\DDD\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Pictures\CursoTestUnity\DDD\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.AssemblyInfoInputs.cache
+C:\Users\Administrador\Pictures\CursoTestUnity\DDD\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.AssemblyInfo.cs
+C:\Users\Administrador\Pictures\CursoTestUnity\DDD\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.dll
+C:\Users\Administrador\Pictures\CursoTestUnity\DDD\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.pdb
+C:\teste\DDD\CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.deps.json
+C:\teste\DDD\CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.dll
+C:\teste\DDD\CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.pdb
+C:\teste\DDD\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.csprojAssemblyReference.cache
+C:\teste\DDD\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.csproj.CoreCompileInputs.cache
+C:\teste\DDD\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.AssemblyInfoInputs.cache
+C:\teste\DDD\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.AssemblyInfo.cs
+C:\teste\DDD\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.dll
+C:\teste\DDD\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.pdb
+C:\Users\annac\OneDrive\Documentos\DDD\CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.deps.json
+C:\Users\annac\OneDrive\Documentos\DDD\CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.dll
+C:\Users\annac\OneDrive\Documentos\DDD\CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.pdb
+C:\Users\annac\OneDrive\Documentos\DDD\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.csprojAssemblyReference.cache
+C:\Users\annac\OneDrive\Documentos\DDD\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.AssemblyInfoInputs.cache
+C:\Users\annac\OneDrive\Documentos\DDD\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.AssemblyInfo.cs
+C:\Users\annac\OneDrive\Documentos\DDD\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.dll
+C:\Users\annac\OneDrive\Documentos\DDD\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.pdb
+C:\Users\annac\OneDrive\Documentos\DDD\CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.runtimeconfig.json
+C:\Users\annac\OneDrive\Documentos\DDD\CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.runtimeconfig.dev.json
+C:\Users\annac\Downloads\DDD\CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.deps.json
+C:\Users\annac\Downloads\DDD\CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.runtimeconfig.json
+C:\Users\annac\Downloads\DDD\CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.runtimeconfig.dev.json
+C:\Users\annac\Downloads\DDD\CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.dll
+C:\Users\annac\Downloads\DDD\CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.pdb
+C:\Users\annac\Downloads\DDD\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.AssemblyInfoInputs.cache
+C:\Users\annac\Downloads\DDD\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.AssemblyInfo.cs
+C:\Users\annac\Downloads\DDD\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.dll
+C:\Users\annac\Downloads\DDD\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.pdb
+C:\Users\annac\Downloads\DDD\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.csprojAssemblyReference.cache
+C:\Users\Administrador\Pictures\DDD\CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.deps.json
+C:\Users\Administrador\Pictures\DDD\CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.runtimeconfig.json
+C:\Users\Administrador\Pictures\DDD\CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.runtimeconfig.dev.json
+C:\Users\Administrador\Pictures\DDD\CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.dll
+C:\Users\Administrador\Pictures\DDD\CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.pdb
+C:\Users\Administrador\Pictures\DDD\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.csprojAssemblyReference.cache
+C:\Users\Administrador\Pictures\DDD\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Pictures\DDD\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.AssemblyInfoInputs.cache
+C:\Users\Administrador\Pictures\DDD\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.AssemblyInfo.cs
+C:\Users\Administrador\Pictures\DDD\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.dll
+C:\Users\Administrador\Pictures\DDD\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.pdb
+C:\Users\Administrador\Documents\teste\DDD\CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.deps.json
+C:\Users\Administrador\Documents\teste\DDD\CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.runtimeconfig.json
+C:\Users\Administrador\Documents\teste\DDD\CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.runtimeconfig.dev.json
+C:\Users\Administrador\Documents\teste\DDD\CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.dll
+C:\Users\Administrador\Documents\teste\DDD\CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.pdb
+C:\Users\Administrador\Documents\teste\DDD\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.csprojAssemblyReference.cache
+C:\Users\Administrador\Documents\teste\DDD\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\teste\DDD\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.AssemblyInfoInputs.cache
+C:\Users\Administrador\Documents\teste\DDD\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.AssemblyInfo.cs
+C:\Users\Administrador\Documents\teste\DDD\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.dll
+C:\Users\Administrador\Documents\teste\DDD\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.pdb
+C:\Users\annac\OneDrive\Imagens\Imagens da Câmera\DDD\CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.deps.json
+C:\Users\annac\OneDrive\Imagens\Imagens da Câmera\DDD\CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.runtimeconfig.json
+C:\Users\annac\OneDrive\Imagens\Imagens da Câmera\DDD\CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.runtimeconfig.dev.json
+C:\Users\annac\OneDrive\Imagens\Imagens da Câmera\DDD\CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.dll
+C:\Users\annac\OneDrive\Imagens\Imagens da Câmera\DDD\CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.pdb
+C:\Users\annac\OneDrive\Imagens\Imagens da Câmera\DDD\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.AssemblyInfoInputs.cache
+C:\Users\annac\OneDrive\Imagens\Imagens da Câmera\DDD\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.AssemblyInfo.cs
+C:\Users\annac\OneDrive\Imagens\Imagens da Câmera\DDD\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.dll
+C:\Users\annac\OneDrive\Imagens\Imagens da Câmera\DDD\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.pdb
+C:\Users\annac\OneDrive\Imagens\Imagens da Câmera\DDD\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.csprojAssemblyReference.cache
+C:\Users\annac\OneDrive\Imagens\DDD\CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.deps.json
+C:\Users\annac\OneDrive\Imagens\DDD\CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.runtimeconfig.json
+C:\Users\annac\OneDrive\Imagens\DDD\CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.runtimeconfig.dev.json
+C:\Users\annac\OneDrive\Imagens\DDD\CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.dll
+C:\Users\annac\OneDrive\Imagens\DDD\CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.pdb
+C:\Users\annac\OneDrive\Imagens\DDD\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.csprojAssemblyReference.cache
+C:\Users\annac\OneDrive\Imagens\DDD\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.AssemblyInfoInputs.cache
+C:\Users\annac\OneDrive\Imagens\DDD\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.AssemblyInfo.cs
+C:\Users\annac\OneDrive\Imagens\DDD\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.dll
+C:\Users\annac\OneDrive\Imagens\DDD\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.pdb
+C:\Lab\TCC\TCC\CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.deps.json
+C:\Lab\TCC\TCC\CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.runtimeconfig.json
+C:\Lab\TCC\TCC\CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.runtimeconfig.dev.json
+C:\Lab\TCC\TCC\CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.dll
+C:\Lab\TCC\TCC\CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.pdb
+C:\Lab\TCC\TCC\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.csprojAssemblyReference.cache
+C:\Lab\TCC\TCC\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.AssemblyInfoInputs.cache
+C:\Lab\TCC\TCC\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.AssemblyInfo.cs
+C:\Lab\TCC\TCC\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.dll
+C:\Lab\TCC\TCC\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.pdb
+C:\Lab\Nova pasta\TCC\CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.deps.json
+C:\Lab\Nova pasta\TCC\CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.runtimeconfig.json
+C:\Lab\Nova pasta\TCC\CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.runtimeconfig.dev.json
+C:\Lab\Nova pasta\TCC\CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.dll
+C:\Lab\Nova pasta\TCC\CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.pdb
+C:\Lab\Nova pasta\TCC\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.AssemblyInfoInputs.cache
+C:\Lab\Nova pasta\TCC\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.AssemblyInfo.cs
+C:\Lab\Nova pasta\TCC\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.dll
+C:\Lab\Nova pasta\TCC\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.pdb
+C:\Lab\Nova pasta\TCC\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.csprojAssemblyReference.cache
+C:\Users\apchaves\Desktop\Nova pasta\TCC\CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.deps.json
+C:\Users\apchaves\Desktop\Nova pasta\TCC\CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.runtimeconfig.json
+C:\Users\apchaves\Desktop\Nova pasta\TCC\CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.runtimeconfig.dev.json
+C:\Users\apchaves\Desktop\Nova pasta\TCC\CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.dll
+C:\Users\apchaves\Desktop\Nova pasta\TCC\CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.pdb
+C:\Users\apchaves\Desktop\Nova pasta\TCC\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.csprojAssemblyReference.cache
+C:\Users\apchaves\Desktop\Nova pasta\TCC\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.AssemblyInfoInputs.cache
+C:\Users\apchaves\Desktop\Nova pasta\TCC\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.AssemblyInfo.cs
+C:\Users\apchaves\Desktop\Nova pasta\TCC\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.dll
+C:\Users\apchaves\Desktop\Nova pasta\TCC\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.pdb
+C:\Users\apchaves\Documents\TCC\CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.deps.json
+C:\Users\apchaves\Documents\TCC\CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.runtimeconfig.json
+C:\Users\apchaves\Documents\TCC\CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.runtimeconfig.dev.json
+C:\Users\apchaves\Documents\TCC\CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.dll
+C:\Users\apchaves\Documents\TCC\CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.pdb
+C:\Users\apchaves\Documents\TCC\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.csprojAssemblyReference.cache
+C:\Users\apchaves\Documents\TCC\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.AssemblyInfoInputs.cache
+C:\Users\apchaves\Documents\TCC\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.AssemblyInfo.cs
+C:\Users\apchaves\Documents\TCC\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.dll
+C:\Users\apchaves\Documents\TCC\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.pdb
+C:\Lab\TCC\TCC\CrossCutting\bin\Debug\netcoreapp2.2\Domain.dll
+C:\Lab\TCC\TCC\CrossCutting\bin\Debug\netcoreapp2.2\Infra.dll
+C:\Lab\TCC\TCC\CrossCutting\bin\Debug\netcoreapp2.2\Service.dll
+C:\Lab\TCC\TCC\CrossCutting\bin\Debug\netcoreapp2.2\Infra.pdb
+C:\Lab\TCC\TCC\CrossCutting\bin\Debug\netcoreapp2.2\Service.pdb
+C:\Lab\TCC\TCC\CrossCutting\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\Lab\TCC\TCC\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.csproj.CopyComplete
+C:\Users\annac\OneDrive\Área de Trabalho\ana\TCC\CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.deps.json
+C:\Users\annac\OneDrive\Área de Trabalho\ana\TCC\CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.runtimeconfig.json
+C:\Users\annac\OneDrive\Área de Trabalho\ana\TCC\CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.runtimeconfig.dev.json
+C:\Users\annac\OneDrive\Área de Trabalho\ana\TCC\CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.dll
+C:\Users\annac\OneDrive\Área de Trabalho\ana\TCC\CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.pdb
+C:\Users\annac\OneDrive\Área de Trabalho\ana\TCC\CrossCutting\bin\Debug\netcoreapp2.2\Domain.dll
+C:\Users\annac\OneDrive\Área de Trabalho\ana\TCC\CrossCutting\bin\Debug\netcoreapp2.2\Service.dll
+C:\Users\annac\OneDrive\Área de Trabalho\ana\TCC\CrossCutting\bin\Debug\netcoreapp2.2\Service.pdb
+C:\Users\annac\OneDrive\Área de Trabalho\ana\TCC\CrossCutting\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\Users\annac\OneDrive\Área de Trabalho\ana\TCC\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.csprojAssemblyReference.cache
+C:\Users\annac\OneDrive\Área de Trabalho\ana\TCC\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.AssemblyInfoInputs.cache
+C:\Users\annac\OneDrive\Área de Trabalho\ana\TCC\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.AssemblyInfo.cs
+C:\Users\annac\OneDrive\Área de Trabalho\ana\TCC\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.csproj.CopyComplete
+C:\Users\annac\OneDrive\Área de Trabalho\ana\TCC\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.dll
+C:\Users\annac\OneDrive\Área de Trabalho\ana\TCC\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.pdb
+C:\Users\apchaves\Documents\TCC\TCC\CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.deps.json
+C:\Users\apchaves\Documents\TCC\TCC\CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.runtimeconfig.json
+C:\Users\apchaves\Documents\TCC\TCC\CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.runtimeconfig.dev.json
+C:\Users\apchaves\Documents\TCC\TCC\CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.dll
+C:\Users\apchaves\Documents\TCC\TCC\CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.pdb
+C:\Users\apchaves\Documents\TCC\TCC\CrossCutting\bin\Debug\netcoreapp2.2\Domain.dll
+C:\Users\apchaves\Documents\TCC\TCC\CrossCutting\bin\Debug\netcoreapp2.2\Service.dll
+C:\Users\apchaves\Documents\TCC\TCC\CrossCutting\bin\Debug\netcoreapp2.2\Service.pdb
+C:\Users\apchaves\Documents\TCC\TCC\CrossCutting\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\Users\apchaves\Documents\TCC\TCC\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.csprojAssemblyReference.cache
+C:\Users\apchaves\Documents\TCC\TCC\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.AssemblyInfoInputs.cache
+C:\Users\apchaves\Documents\TCC\TCC\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.AssemblyInfo.cs
+C:\Users\apchaves\Documents\TCC\TCC\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.csproj.CopyComplete
+C:\Users\apchaves\Documents\TCC\TCC\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.dll
+C:\Users\apchaves\Documents\TCC\TCC\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.pdb
+C:\LAB\TCC\CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.deps.json
+C:\LAB\TCC\CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.runtimeconfig.json
+C:\LAB\TCC\CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.runtimeconfig.dev.json
+C:\LAB\TCC\CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.dll
+C:\LAB\TCC\CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.pdb
+C:\LAB\TCC\CrossCutting\bin\Debug\netcoreapp2.2\Domain.dll
+C:\LAB\TCC\CrossCutting\bin\Debug\netcoreapp2.2\Service.dll
+C:\LAB\TCC\CrossCutting\bin\Debug\netcoreapp2.2\Service.pdb
+C:\LAB\TCC\CrossCutting\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\LAB\TCC\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.csprojAssemblyReference.cache
+C:\LAB\TCC\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.AssemblyInfoInputs.cache
+C:\LAB\TCC\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.AssemblyInfo.cs
+C:\LAB\TCC\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.csproj.CopyComplete
+C:\LAB\TCC\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.dll
+C:\LAB\TCC\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.pdb
+C:\Users\apchaves\Documents\IPV4Learning\CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.deps.json
+C:\Users\apchaves\Documents\IPV4Learning\CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.runtimeconfig.json
+C:\Users\apchaves\Documents\IPV4Learning\CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.runtimeconfig.dev.json
+C:\Users\apchaves\Documents\IPV4Learning\CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.dll
+C:\Users\apchaves\Documents\IPV4Learning\CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.pdb
+C:\Users\apchaves\Documents\IPV4Learning\CrossCutting\bin\Debug\netcoreapp2.2\Domain.dll
+C:\Users\apchaves\Documents\IPV4Learning\CrossCutting\bin\Debug\netcoreapp2.2\Service.dll
+C:\Users\apchaves\Documents\IPV4Learning\CrossCutting\bin\Debug\netcoreapp2.2\Service.pdb
+C:\Users\apchaves\Documents\IPV4Learning\CrossCutting\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\Users\apchaves\Documents\IPV4Learning\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.csprojAssemblyReference.cache
+C:\Users\apchaves\Documents\IPV4Learning\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.AssemblyInfoInputs.cache
+C:\Users\apchaves\Documents\IPV4Learning\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.AssemblyInfo.cs
+C:\Users\apchaves\Documents\IPV4Learning\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.csproj.CopyComplete
+C:\Users\apchaves\Documents\IPV4Learning\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.dll
+C:\Users\apchaves\Documents\IPV4Learning\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.pdb
+C:\Users\annac\OneDrive\Área de Trabalho\IPV4Learning\CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.deps.json
+C:\Users\annac\OneDrive\Área de Trabalho\IPV4Learning\CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.runtimeconfig.json
+C:\Users\annac\OneDrive\Área de Trabalho\IPV4Learning\CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.runtimeconfig.dev.json
+C:\Users\annac\OneDrive\Área de Trabalho\IPV4Learning\CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.dll
+C:\Users\annac\OneDrive\Área de Trabalho\IPV4Learning\CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.pdb
+C:\Users\annac\OneDrive\Área de Trabalho\IPV4Learning\CrossCutting\bin\Debug\netcoreapp2.2\Domain.dll
+C:\Users\annac\OneDrive\Área de Trabalho\IPV4Learning\CrossCutting\bin\Debug\netcoreapp2.2\Service.dll
+C:\Users\annac\OneDrive\Área de Trabalho\IPV4Learning\CrossCutting\bin\Debug\netcoreapp2.2\Service.pdb
+C:\Users\annac\OneDrive\Área de Trabalho\IPV4Learning\CrossCutting\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\Users\annac\OneDrive\Área de Trabalho\IPV4Learning\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.csprojAssemblyReference.cache
+C:\Users\annac\OneDrive\Área de Trabalho\IPV4Learning\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.AssemblyInfoInputs.cache
+C:\Users\annac\OneDrive\Área de Trabalho\IPV4Learning\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.AssemblyInfo.cs
+C:\Users\annac\OneDrive\Área de Trabalho\IPV4Learning\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.csproj.CopyComplete
+C:\Users\annac\OneDrive\Área de Trabalho\IPV4Learning\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.dll
+C:\Users\annac\OneDrive\Área de Trabalho\IPV4Learning\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.pdb
+C:\LAB\IPV4Learning\CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.deps.json
+C:\LAB\IPV4Learning\CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.runtimeconfig.json
+C:\LAB\IPV4Learning\CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.runtimeconfig.dev.json
+C:\LAB\IPV4Learning\CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.dll
+C:\LAB\IPV4Learning\CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.pdb
+C:\LAB\IPV4Learning\CrossCutting\bin\Debug\netcoreapp2.2\Domain.dll
+C:\LAB\IPV4Learning\CrossCutting\bin\Debug\netcoreapp2.2\Service.dll
+C:\LAB\IPV4Learning\CrossCutting\bin\Debug\netcoreapp2.2\Service.pdb
+C:\LAB\IPV4Learning\CrossCutting\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\LAB\IPV4Learning\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.csprojAssemblyReference.cache
+C:\LAB\IPV4Learning\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.AssemblyInfoInputs.cache
+C:\LAB\IPV4Learning\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.AssemblyInfo.cs
+C:\LAB\IPV4Learning\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.csproj.CopyComplete
+C:\LAB\IPV4Learning\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.dll
+C:\LAB\IPV4Learning\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.pdb
+D:\IPV4Learning\CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.deps.json
+D:\IPV4Learning\CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.runtimeconfig.json
+D:\IPV4Learning\CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.runtimeconfig.dev.json
+D:\IPV4Learning\CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.dll
+D:\IPV4Learning\CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.pdb
+D:\IPV4Learning\CrossCutting\bin\Debug\netcoreapp2.2\Domain.dll
+D:\IPV4Learning\CrossCutting\bin\Debug\netcoreapp2.2\Service.dll
+D:\IPV4Learning\CrossCutting\bin\Debug\netcoreapp2.2\Service.pdb
+D:\IPV4Learning\CrossCutting\bin\Debug\netcoreapp2.2\Domain.pdb
+D:\IPV4Learning\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.csprojAssemblyReference.cache
+D:\IPV4Learning\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.AssemblyInfoInputs.cache
+D:\IPV4Learning\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.AssemblyInfo.cs
+D:\IPV4Learning\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.csproj.CopyComplete
+D:\IPV4Learning\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.dll
+D:\IPV4Learning\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.pdb
+C:\Users\anabr\Documents\tcc\IPV4Learning\CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.deps.json
+C:\Users\anabr\Documents\tcc\IPV4Learning\CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.runtimeconfig.json
+C:\Users\anabr\Documents\tcc\IPV4Learning\CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.runtimeconfig.dev.json
+C:\Users\anabr\Documents\tcc\IPV4Learning\CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.dll
+C:\Users\anabr\Documents\tcc\IPV4Learning\CrossCutting\bin\Debug\netcoreapp2.2\CrossCutting.pdb
+C:\Users\anabr\Documents\tcc\IPV4Learning\CrossCutting\bin\Debug\netcoreapp2.2\Domain.dll
+C:\Users\anabr\Documents\tcc\IPV4Learning\CrossCutting\bin\Debug\netcoreapp2.2\Service.dll
+C:\Users\anabr\Documents\tcc\IPV4Learning\CrossCutting\bin\Debug\netcoreapp2.2\Service.pdb
+C:\Users\anabr\Documents\tcc\IPV4Learning\CrossCutting\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\Users\anabr\Documents\tcc\IPV4Learning\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.csprojAssemblyReference.cache
+C:\Users\anabr\Documents\tcc\IPV4Learning\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\anabr\Documents\tcc\IPV4Learning\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.AssemblyInfoInputs.cache
+C:\Users\anabr\Documents\tcc\IPV4Learning\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.AssemblyInfo.cs
+C:\Users\anabr\Documents\tcc\IPV4Learning\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.csproj.CopyComplete
+C:\Users\anabr\Documents\tcc\IPV4Learning\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.dll
+C:\Users\anabr\Documents\tcc\IPV4Learning\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.pdb
+C:\Users\anabr\Documents\tcc\IPV4Learning\CrossCutting\obj\Debug\netcoreapp2.2\CrossCutting.genruntimeconfig.cache

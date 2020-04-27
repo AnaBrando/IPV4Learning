@@ -1,0 +1,310 @@
+C:\Inferno\Infra\bin\Debug\netcoreapp2.2\Infra.deps.json
+C:\Inferno\Infra\bin\Debug\netcoreapp2.2\Infra.runtimeconfig.json
+C:\Inferno\Infra\bin\Debug\netcoreapp2.2\Infra.runtimeconfig.dev.json
+C:\Inferno\Infra\bin\Debug\netcoreapp2.2\Infra.dll
+C:\Inferno\Infra\bin\Debug\netcoreapp2.2\Infra.pdb
+C:\Inferno\Infra\bin\Debug\netcoreapp2.2\Domain.dll
+C:\Inferno\Infra\bin\Debug\netcoreapp2.2\Service.dll
+C:\Inferno\Infra\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\Inferno\Infra\bin\Debug\netcoreapp2.2\Service.pdb
+C:\Inferno\Infra\obj\Debug\netcoreapp2.2\Infra.csprojAssemblyReference.cache
+C:\Inferno\Infra\obj\Debug\netcoreapp2.2\Infra.AssemblyInfoInputs.cache
+C:\Inferno\Infra\obj\Debug\netcoreapp2.2\Infra.AssemblyInfo.cs
+C:\Inferno\Infra\obj\Debug\netcoreapp2.2\Infra.csproj.CopyComplete
+C:\Inferno\Infra\obj\Debug\netcoreapp2.2\Infra.dll
+C:\Inferno\Infra\obj\Debug\netcoreapp2.2\Infra.pdb
+C:\Users\Administrador\Pictures\CursoTestUnity\DDD\Infra\bin\Debug\netcoreapp2.2\Infra.deps.json
+C:\Users\Administrador\Pictures\CursoTestUnity\DDD\Infra\bin\Debug\netcoreapp2.2\Infra.runtimeconfig.json
+C:\Users\Administrador\Pictures\CursoTestUnity\DDD\Infra\bin\Debug\netcoreapp2.2\Infra.runtimeconfig.dev.json
+C:\Users\Administrador\Pictures\CursoTestUnity\DDD\Infra\bin\Debug\netcoreapp2.2\Infra.dll
+C:\Users\Administrador\Pictures\CursoTestUnity\DDD\Infra\bin\Debug\netcoreapp2.2\Infra.pdb
+C:\Users\Administrador\Pictures\CursoTestUnity\DDD\Infra\bin\Debug\netcoreapp2.2\Domain.dll
+C:\Users\Administrador\Pictures\CursoTestUnity\DDD\Infra\bin\Debug\netcoreapp2.2\Service.dll
+C:\Users\Administrador\Pictures\CursoTestUnity\DDD\Infra\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\Users\Administrador\Pictures\CursoTestUnity\DDD\Infra\bin\Debug\netcoreapp2.2\Service.pdb
+C:\Users\Administrador\Pictures\CursoTestUnity\DDD\Infra\obj\Debug\netcoreapp2.2\Infra.csprojAssemblyReference.cache
+C:\Users\Administrador\Pictures\CursoTestUnity\DDD\Infra\obj\Debug\netcoreapp2.2\Infra.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Pictures\CursoTestUnity\DDD\Infra\obj\Debug\netcoreapp2.2\Infra.AssemblyInfoInputs.cache
+C:\Users\Administrador\Pictures\CursoTestUnity\DDD\Infra\obj\Debug\netcoreapp2.2\Infra.AssemblyInfo.cs
+C:\Users\Administrador\Pictures\CursoTestUnity\DDD\Infra\obj\Debug\netcoreapp2.2\Infra.csproj.CopyComplete
+C:\Users\Administrador\Pictures\CursoTestUnity\DDD\Infra\obj\Debug\netcoreapp2.2\Infra.dll
+C:\Users\Administrador\Pictures\CursoTestUnity\DDD\Infra\obj\Debug\netcoreapp2.2\Infra.pdb
+C:\teste\DDD\Infra\bin\Debug\netcoreapp2.2\Infra.deps.json
+C:\teste\DDD\Infra\bin\Debug\netcoreapp2.2\Infra.runtimeconfig.json
+C:\teste\DDD\Infra\bin\Debug\netcoreapp2.2\Infra.runtimeconfig.dev.json
+C:\teste\DDD\Infra\bin\Debug\netcoreapp2.2\Infra.dll
+C:\teste\DDD\Infra\bin\Debug\netcoreapp2.2\Infra.pdb
+C:\teste\DDD\Infra\bin\Debug\netcoreapp2.2\Domain.dll
+C:\teste\DDD\Infra\bin\Debug\netcoreapp2.2\Service.dll
+C:\teste\DDD\Infra\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\teste\DDD\Infra\bin\Debug\netcoreapp2.2\Service.pdb
+C:\teste\DDD\Infra\obj\Debug\netcoreapp2.2\Infra.csprojAssemblyReference.cache
+C:\teste\DDD\Infra\obj\Debug\netcoreapp2.2\Infra.csproj.CoreCompileInputs.cache
+C:\teste\DDD\Infra\obj\Debug\netcoreapp2.2\Infra.AssemblyInfoInputs.cache
+C:\teste\DDD\Infra\obj\Debug\netcoreapp2.2\Infra.AssemblyInfo.cs
+C:\teste\DDD\Infra\obj\Debug\netcoreapp2.2\Infra.csproj.CopyComplete
+C:\teste\DDD\Infra\obj\Debug\netcoreapp2.2\Infra.dll
+C:\teste\DDD\Infra\obj\Debug\netcoreapp2.2\Infra.pdb
+C:\teste\DDD\Infra\bin\Debug\netcoreapp2.2\CrossCutting.dll
+C:\teste\DDD\Infra\bin\Debug\netcoreapp2.2\CrossCutting.pdb
+C:\Users\annac\OneDrive\Documentos\DDD\Infra\bin\Debug\netcoreapp2.2\Infra.deps.json
+C:\Users\annac\OneDrive\Documentos\DDD\Infra\bin\Debug\netcoreapp2.2\Infra.runtimeconfig.json
+C:\Users\annac\OneDrive\Documentos\DDD\Infra\bin\Debug\netcoreapp2.2\Infra.runtimeconfig.dev.json
+C:\Users\annac\OneDrive\Documentos\DDD\Infra\bin\Debug\netcoreapp2.2\Infra.dll
+C:\Users\annac\OneDrive\Documentos\DDD\Infra\bin\Debug\netcoreapp2.2\Infra.pdb
+C:\Users\annac\OneDrive\Documentos\DDD\Infra\bin\Debug\netcoreapp2.2\Domain.dll
+C:\Users\annac\OneDrive\Documentos\DDD\Infra\bin\Debug\netcoreapp2.2\Service.dll
+C:\Users\annac\OneDrive\Documentos\DDD\Infra\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\Users\annac\OneDrive\Documentos\DDD\Infra\bin\Debug\netcoreapp2.2\Service.pdb
+C:\Users\annac\OneDrive\Documentos\DDD\Infra\obj\Debug\netcoreapp2.2\Infra.csprojAssemblyReference.cache
+C:\Users\annac\OneDrive\Documentos\DDD\Infra\obj\Debug\netcoreapp2.2\Infra.AssemblyInfoInputs.cache
+C:\Users\annac\OneDrive\Documentos\DDD\Infra\obj\Debug\netcoreapp2.2\Infra.AssemblyInfo.cs
+C:\Users\annac\OneDrive\Documentos\DDD\Infra\obj\Debug\netcoreapp2.2\Infra.csproj.CopyComplete
+C:\Users\annac\OneDrive\Documentos\DDD\Infra\obj\Debug\netcoreapp2.2\Infra.dll
+C:\Users\annac\OneDrive\Documentos\DDD\Infra\obj\Debug\netcoreapp2.2\Infra.pdb
+C:\Users\annac\OneDrive\Documentos\DDD\Infra\bin\Debug\netcoreapp2.2\CrossCutting.dll
+C:\Users\annac\OneDrive\Documentos\DDD\Infra\bin\Debug\netcoreapp2.2\CrossCutting.pdb
+C:\Users\annac\Downloads\DDD\Infra\bin\Debug\netcoreapp2.2\Infra.deps.json
+C:\Users\annac\Downloads\DDD\Infra\bin\Debug\netcoreapp2.2\Infra.runtimeconfig.json
+C:\Users\annac\Downloads\DDD\Infra\bin\Debug\netcoreapp2.2\Infra.runtimeconfig.dev.json
+C:\Users\annac\Downloads\DDD\Infra\bin\Debug\netcoreapp2.2\Infra.dll
+C:\Users\annac\Downloads\DDD\Infra\bin\Debug\netcoreapp2.2\Infra.pdb
+C:\Users\annac\Downloads\DDD\Infra\bin\Debug\netcoreapp2.2\CrossCutting.dll
+C:\Users\annac\Downloads\DDD\Infra\bin\Debug\netcoreapp2.2\Domain.dll
+C:\Users\annac\Downloads\DDD\Infra\bin\Debug\netcoreapp2.2\Service.dll
+C:\Users\annac\Downloads\DDD\Infra\bin\Debug\netcoreapp2.2\CrossCutting.pdb
+C:\Users\annac\Downloads\DDD\Infra\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\Users\annac\Downloads\DDD\Infra\bin\Debug\netcoreapp2.2\Service.pdb
+C:\Users\annac\Downloads\DDD\Infra\obj\Debug\netcoreapp2.2\Infra.csprojAssemblyReference.cache
+C:\Users\annac\Downloads\DDD\Infra\obj\Debug\netcoreapp2.2\Infra.AssemblyInfoInputs.cache
+C:\Users\annac\Downloads\DDD\Infra\obj\Debug\netcoreapp2.2\Infra.AssemblyInfo.cs
+C:\Users\annac\Downloads\DDD\Infra\obj\Debug\netcoreapp2.2\Infra.csproj.CopyComplete
+C:\Users\annac\Downloads\DDD\Infra\obj\Debug\netcoreapp2.2\Infra.dll
+C:\Users\annac\Downloads\DDD\Infra\obj\Debug\netcoreapp2.2\Infra.pdb
+C:\Users\Administrador\Pictures\DDD\Infra\bin\Debug\netcoreapp2.2\Infra.deps.json
+C:\Users\Administrador\Pictures\DDD\Infra\bin\Debug\netcoreapp2.2\Infra.runtimeconfig.json
+C:\Users\Administrador\Pictures\DDD\Infra\bin\Debug\netcoreapp2.2\Infra.runtimeconfig.dev.json
+C:\Users\Administrador\Pictures\DDD\Infra\bin\Debug\netcoreapp2.2\Infra.dll
+C:\Users\Administrador\Pictures\DDD\Infra\bin\Debug\netcoreapp2.2\Infra.pdb
+C:\Users\Administrador\Pictures\DDD\Infra\bin\Debug\netcoreapp2.2\CrossCutting.dll
+C:\Users\Administrador\Pictures\DDD\Infra\bin\Debug\netcoreapp2.2\Domain.dll
+C:\Users\Administrador\Pictures\DDD\Infra\bin\Debug\netcoreapp2.2\Service.dll
+C:\Users\Administrador\Pictures\DDD\Infra\bin\Debug\netcoreapp2.2\CrossCutting.pdb
+C:\Users\Administrador\Pictures\DDD\Infra\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\Users\Administrador\Pictures\DDD\Infra\bin\Debug\netcoreapp2.2\Service.pdb
+C:\Users\Administrador\Pictures\DDD\Infra\obj\Debug\netcoreapp2.2\Infra.csprojAssemblyReference.cache
+C:\Users\Administrador\Pictures\DDD\Infra\obj\Debug\netcoreapp2.2\Infra.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Pictures\DDD\Infra\obj\Debug\netcoreapp2.2\Infra.AssemblyInfoInputs.cache
+C:\Users\Administrador\Pictures\DDD\Infra\obj\Debug\netcoreapp2.2\Infra.AssemblyInfo.cs
+C:\Users\Administrador\Pictures\DDD\Infra\obj\Debug\netcoreapp2.2\Infra.csproj.CopyComplete
+C:\Users\Administrador\Pictures\DDD\Infra\obj\Debug\netcoreapp2.2\Infra.dll
+C:\Users\Administrador\Pictures\DDD\Infra\obj\Debug\netcoreapp2.2\Infra.pdb
+C:\Users\Administrador\Pictures\DDD\Infra\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Administrador\Pictures\DDD\Infra\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Identity.UI.xml
+C:\Users\Administrador\Documents\teste\DDD\Infra\bin\Debug\netcoreapp2.2\Infra.deps.json
+C:\Users\Administrador\Documents\teste\DDD\Infra\bin\Debug\netcoreapp2.2\Infra.runtimeconfig.json
+C:\Users\Administrador\Documents\teste\DDD\Infra\bin\Debug\netcoreapp2.2\Infra.runtimeconfig.dev.json
+C:\Users\Administrador\Documents\teste\DDD\Infra\bin\Debug\netcoreapp2.2\Infra.dll
+C:\Users\Administrador\Documents\teste\DDD\Infra\bin\Debug\netcoreapp2.2\Infra.pdb
+C:\Users\Administrador\Documents\teste\DDD\Infra\bin\Debug\netcoreapp2.2\CrossCutting.dll
+C:\Users\Administrador\Documents\teste\DDD\Infra\bin\Debug\netcoreapp2.2\Domain.dll
+C:\Users\Administrador\Documents\teste\DDD\Infra\bin\Debug\netcoreapp2.2\Service.dll
+C:\Users\Administrador\Documents\teste\DDD\Infra\bin\Debug\netcoreapp2.2\CrossCutting.pdb
+C:\Users\Administrador\Documents\teste\DDD\Infra\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\Users\Administrador\Documents\teste\DDD\Infra\bin\Debug\netcoreapp2.2\Service.pdb
+C:\Users\Administrador\Documents\teste\DDD\Infra\obj\Debug\netcoreapp2.2\Infra.csprojAssemblyReference.cache
+C:\Users\Administrador\Documents\teste\DDD\Infra\obj\Debug\netcoreapp2.2\Infra.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\teste\DDD\Infra\obj\Debug\netcoreapp2.2\Infra.AssemblyInfoInputs.cache
+C:\Users\Administrador\Documents\teste\DDD\Infra\obj\Debug\netcoreapp2.2\Infra.AssemblyInfo.cs
+C:\Users\Administrador\Documents\teste\DDD\Infra\obj\Debug\netcoreapp2.2\Infra.csproj.CopyComplete
+C:\Users\Administrador\Documents\teste\DDD\Infra\obj\Debug\netcoreapp2.2\Infra.dll
+C:\Users\Administrador\Documents\teste\DDD\Infra\obj\Debug\netcoreapp2.2\Infra.pdb
+C:\Users\annac\OneDrive\Imagens\Imagens da Câmera\DDD\Infra\bin\Debug\netcoreapp2.2\Infra.deps.json
+C:\Users\annac\OneDrive\Imagens\Imagens da Câmera\DDD\Infra\bin\Debug\netcoreapp2.2\Infra.runtimeconfig.json
+C:\Users\annac\OneDrive\Imagens\Imagens da Câmera\DDD\Infra\bin\Debug\netcoreapp2.2\Infra.runtimeconfig.dev.json
+C:\Users\annac\OneDrive\Imagens\Imagens da Câmera\DDD\Infra\bin\Debug\netcoreapp2.2\Infra.dll
+C:\Users\annac\OneDrive\Imagens\Imagens da Câmera\DDD\Infra\bin\Debug\netcoreapp2.2\Infra.pdb
+C:\Users\annac\OneDrive\Imagens\Imagens da Câmera\DDD\Infra\bin\Debug\netcoreapp2.2\CrossCutting.dll
+C:\Users\annac\OneDrive\Imagens\Imagens da Câmera\DDD\Infra\bin\Debug\netcoreapp2.2\Domain.dll
+C:\Users\annac\OneDrive\Imagens\Imagens da Câmera\DDD\Infra\bin\Debug\netcoreapp2.2\Service.dll
+C:\Users\annac\OneDrive\Imagens\Imagens da Câmera\DDD\Infra\bin\Debug\netcoreapp2.2\CrossCutting.pdb
+C:\Users\annac\OneDrive\Imagens\Imagens da Câmera\DDD\Infra\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\Users\annac\OneDrive\Imagens\Imagens da Câmera\DDD\Infra\bin\Debug\netcoreapp2.2\Service.pdb
+C:\Users\annac\OneDrive\Imagens\Imagens da Câmera\DDD\Infra\obj\Debug\netcoreapp2.2\Infra.csprojAssemblyReference.cache
+C:\Users\annac\OneDrive\Imagens\Imagens da Câmera\DDD\Infra\obj\Debug\netcoreapp2.2\Infra.AssemblyInfoInputs.cache
+C:\Users\annac\OneDrive\Imagens\Imagens da Câmera\DDD\Infra\obj\Debug\netcoreapp2.2\Infra.AssemblyInfo.cs
+C:\Users\annac\OneDrive\Imagens\Imagens da Câmera\DDD\Infra\obj\Debug\netcoreapp2.2\Infra.csproj.CopyComplete
+C:\Users\annac\OneDrive\Imagens\Imagens da Câmera\DDD\Infra\obj\Debug\netcoreapp2.2\Infra.dll
+C:\Users\annac\OneDrive\Imagens\Imagens da Câmera\DDD\Infra\obj\Debug\netcoreapp2.2\Infra.pdb
+C:\Users\annac\OneDrive\Imagens\DDD\Infra\bin\Debug\netcoreapp2.2\Infra.deps.json
+C:\Users\annac\OneDrive\Imagens\DDD\Infra\bin\Debug\netcoreapp2.2\Infra.runtimeconfig.json
+C:\Users\annac\OneDrive\Imagens\DDD\Infra\bin\Debug\netcoreapp2.2\Infra.runtimeconfig.dev.json
+C:\Users\annac\OneDrive\Imagens\DDD\Infra\bin\Debug\netcoreapp2.2\Infra.dll
+C:\Users\annac\OneDrive\Imagens\DDD\Infra\bin\Debug\netcoreapp2.2\Infra.pdb
+C:\Users\annac\OneDrive\Imagens\DDD\Infra\bin\Debug\netcoreapp2.2\CrossCutting.dll
+C:\Users\annac\OneDrive\Imagens\DDD\Infra\bin\Debug\netcoreapp2.2\Domain.dll
+C:\Users\annac\OneDrive\Imagens\DDD\Infra\bin\Debug\netcoreapp2.2\Service.dll
+C:\Users\annac\OneDrive\Imagens\DDD\Infra\bin\Debug\netcoreapp2.2\CrossCutting.pdb
+C:\Users\annac\OneDrive\Imagens\DDD\Infra\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\Users\annac\OneDrive\Imagens\DDD\Infra\bin\Debug\netcoreapp2.2\Service.pdb
+C:\Users\annac\OneDrive\Imagens\DDD\Infra\obj\Debug\netcoreapp2.2\Infra.csprojAssemblyReference.cache
+C:\Users\annac\OneDrive\Imagens\DDD\Infra\obj\Debug\netcoreapp2.2\Infra.AssemblyInfoInputs.cache
+C:\Users\annac\OneDrive\Imagens\DDD\Infra\obj\Debug\netcoreapp2.2\Infra.AssemblyInfo.cs
+C:\Users\annac\OneDrive\Imagens\DDD\Infra\obj\Debug\netcoreapp2.2\Infra.csproj.CopyComplete
+C:\Users\annac\OneDrive\Imagens\DDD\Infra\obj\Debug\netcoreapp2.2\Infra.dll
+C:\Users\annac\OneDrive\Imagens\DDD\Infra\obj\Debug\netcoreapp2.2\Infra.pdb
+C:\Lab\TCC\TCC\Infra\bin\Debug\netcoreapp2.2\Infra.deps.json
+C:\Lab\TCC\TCC\Infra\bin\Debug\netcoreapp2.2\Infra.runtimeconfig.json
+C:\Lab\TCC\TCC\Infra\bin\Debug\netcoreapp2.2\Infra.runtimeconfig.dev.json
+C:\Lab\TCC\TCC\Infra\bin\Debug\netcoreapp2.2\Infra.dll
+C:\Lab\TCC\TCC\Infra\bin\Debug\netcoreapp2.2\Infra.pdb
+C:\Lab\TCC\TCC\Infra\bin\Debug\netcoreapp2.2\CrossCutting.dll
+C:\Lab\TCC\TCC\Infra\bin\Debug\netcoreapp2.2\Domain.dll
+C:\Lab\TCC\TCC\Infra\bin\Debug\netcoreapp2.2\Service.dll
+C:\Lab\TCC\TCC\Infra\bin\Debug\netcoreapp2.2\CrossCutting.pdb
+C:\Lab\TCC\TCC\Infra\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\Lab\TCC\TCC\Infra\bin\Debug\netcoreapp2.2\Service.pdb
+C:\Lab\TCC\TCC\Infra\obj\Debug\netcoreapp2.2\Infra.csprojAssemblyReference.cache
+C:\Lab\TCC\TCC\Infra\obj\Debug\netcoreapp2.2\Infra.AssemblyInfoInputs.cache
+C:\Lab\TCC\TCC\Infra\obj\Debug\netcoreapp2.2\Infra.AssemblyInfo.cs
+C:\Lab\TCC\TCC\Infra\obj\Debug\netcoreapp2.2\Infra.csproj.CopyComplete
+C:\Lab\TCC\TCC\Infra\obj\Debug\netcoreapp2.2\Infra.dll
+C:\Lab\TCC\TCC\Infra\obj\Debug\netcoreapp2.2\Infra.pdb
+C:\Lab\Nova pasta\TCC\Infra\bin\Debug\netcoreapp2.2\Infra.deps.json
+C:\Lab\Nova pasta\TCC\Infra\bin\Debug\netcoreapp2.2\Infra.runtimeconfig.json
+C:\Lab\Nova pasta\TCC\Infra\bin\Debug\netcoreapp2.2\Infra.runtimeconfig.dev.json
+C:\Lab\Nova pasta\TCC\Infra\bin\Debug\netcoreapp2.2\Infra.dll
+C:\Lab\Nova pasta\TCC\Infra\bin\Debug\netcoreapp2.2\Infra.pdb
+C:\Lab\Nova pasta\TCC\Infra\bin\Debug\netcoreapp2.2\CrossCutting.dll
+C:\Lab\Nova pasta\TCC\Infra\bin\Debug\netcoreapp2.2\Domain.dll
+C:\Lab\Nova pasta\TCC\Infra\bin\Debug\netcoreapp2.2\Service.dll
+C:\Lab\Nova pasta\TCC\Infra\bin\Debug\netcoreapp2.2\CrossCutting.pdb
+C:\Lab\Nova pasta\TCC\Infra\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\Lab\Nova pasta\TCC\Infra\bin\Debug\netcoreapp2.2\Service.pdb
+C:\Lab\Nova pasta\TCC\Infra\obj\Debug\netcoreapp2.2\Infra.csprojAssemblyReference.cache
+C:\Lab\Nova pasta\TCC\Infra\obj\Debug\netcoreapp2.2\Infra.AssemblyInfoInputs.cache
+C:\Lab\Nova pasta\TCC\Infra\obj\Debug\netcoreapp2.2\Infra.AssemblyInfo.cs
+C:\Lab\Nova pasta\TCC\Infra\obj\Debug\netcoreapp2.2\Infra.csproj.CopyComplete
+C:\Lab\Nova pasta\TCC\Infra\obj\Debug\netcoreapp2.2\Infra.dll
+C:\Lab\Nova pasta\TCC\Infra\obj\Debug\netcoreapp2.2\Infra.pdb
+C:\LAB\MASTER\TCC\Infra\bin\Debug\netcoreapp2.2\Infra.deps.json
+C:\LAB\MASTER\TCC\Infra\bin\Debug\netcoreapp2.2\Infra.runtimeconfig.json
+C:\LAB\MASTER\TCC\Infra\bin\Debug\netcoreapp2.2\Infra.runtimeconfig.dev.json
+C:\LAB\MASTER\TCC\Infra\bin\Debug\netcoreapp2.2\Infra.dll
+C:\LAB\MASTER\TCC\Infra\bin\Debug\netcoreapp2.2\Infra.pdb
+C:\LAB\MASTER\TCC\Infra\bin\Debug\netcoreapp2.2\CrossCutting.dll
+C:\LAB\MASTER\TCC\Infra\bin\Debug\netcoreapp2.2\Domain.dll
+C:\LAB\MASTER\TCC\Infra\bin\Debug\netcoreapp2.2\Service.dll
+C:\LAB\MASTER\TCC\Infra\bin\Debug\netcoreapp2.2\CrossCutting.pdb
+C:\LAB\MASTER\TCC\Infra\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\LAB\MASTER\TCC\Infra\bin\Debug\netcoreapp2.2\Service.pdb
+C:\LAB\MASTER\TCC\Infra\obj\Debug\netcoreapp2.2\Infra.csprojAssemblyReference.cache
+C:\LAB\MASTER\TCC\Infra\obj\Debug\netcoreapp2.2\Infra.AssemblyInfoInputs.cache
+C:\LAB\MASTER\TCC\Infra\obj\Debug\netcoreapp2.2\Infra.AssemblyInfo.cs
+C:\LAB\MASTER\TCC\Infra\obj\Debug\netcoreapp2.2\Infra.csproj.CopyComplete
+C:\LAB\MASTER\TCC\Infra\obj\Debug\netcoreapp2.2\Infra.dll
+C:\LAB\MASTER\TCC\Infra\obj\Debug\netcoreapp2.2\Infra.pdb
+C:\LAB\TCC\Infra\bin\Debug\netcoreapp2.2\Infra.deps.json
+C:\LAB\TCC\Infra\bin\Debug\netcoreapp2.2\Infra.runtimeconfig.json
+C:\LAB\TCC\Infra\bin\Debug\netcoreapp2.2\Infra.runtimeconfig.dev.json
+C:\LAB\TCC\Infra\bin\Debug\netcoreapp2.2\Infra.dll
+C:\LAB\TCC\Infra\bin\Debug\netcoreapp2.2\Infra.pdb
+C:\LAB\TCC\Infra\bin\Debug\netcoreapp2.2\CrossCutting.dll
+C:\LAB\TCC\Infra\bin\Debug\netcoreapp2.2\Domain.dll
+C:\LAB\TCC\Infra\bin\Debug\netcoreapp2.2\Service.dll
+C:\LAB\TCC\Infra\bin\Debug\netcoreapp2.2\CrossCutting.pdb
+C:\LAB\TCC\Infra\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\LAB\TCC\Infra\bin\Debug\netcoreapp2.2\Service.pdb
+C:\LAB\TCC\Infra\obj\Debug\netcoreapp2.2\Infra.csprojAssemblyReference.cache
+C:\LAB\TCC\Infra\obj\Debug\netcoreapp2.2\Infra.AssemblyInfoInputs.cache
+C:\LAB\TCC\Infra\obj\Debug\netcoreapp2.2\Infra.AssemblyInfo.cs
+C:\LAB\TCC\Infra\obj\Debug\netcoreapp2.2\Infra.csproj.CopyComplete
+C:\LAB\TCC\Infra\obj\Debug\netcoreapp2.2\Infra.dll
+C:\LAB\TCC\Infra\obj\Debug\netcoreapp2.2\Infra.pdb
+C:\Users\apchaves\Documents\IPV4Learning\Infra\bin\Debug\netcoreapp2.2\Infra.deps.json
+C:\Users\apchaves\Documents\IPV4Learning\Infra\bin\Debug\netcoreapp2.2\Infra.runtimeconfig.json
+C:\Users\apchaves\Documents\IPV4Learning\Infra\bin\Debug\netcoreapp2.2\Infra.runtimeconfig.dev.json
+C:\Users\apchaves\Documents\IPV4Learning\Infra\bin\Debug\netcoreapp2.2\Infra.dll
+C:\Users\apchaves\Documents\IPV4Learning\Infra\bin\Debug\netcoreapp2.2\Infra.pdb
+C:\Users\apchaves\Documents\IPV4Learning\Infra\bin\Debug\netcoreapp2.2\CrossCutting.dll
+C:\Users\apchaves\Documents\IPV4Learning\Infra\bin\Debug\netcoreapp2.2\Domain.dll
+C:\Users\apchaves\Documents\IPV4Learning\Infra\bin\Debug\netcoreapp2.2\Service.dll
+C:\Users\apchaves\Documents\IPV4Learning\Infra\bin\Debug\netcoreapp2.2\CrossCutting.pdb
+C:\Users\apchaves\Documents\IPV4Learning\Infra\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\Users\apchaves\Documents\IPV4Learning\Infra\bin\Debug\netcoreapp2.2\Service.pdb
+C:\Users\apchaves\Documents\IPV4Learning\Infra\obj\Debug\netcoreapp2.2\Infra.csprojAssemblyReference.cache
+C:\Users\apchaves\Documents\IPV4Learning\Infra\obj\Debug\netcoreapp2.2\Infra.AssemblyInfoInputs.cache
+C:\Users\apchaves\Documents\IPV4Learning\Infra\obj\Debug\netcoreapp2.2\Infra.AssemblyInfo.cs
+C:\Users\apchaves\Documents\IPV4Learning\Infra\obj\Debug\netcoreapp2.2\Infra.csproj.CopyComplete
+C:\Users\apchaves\Documents\IPV4Learning\Infra\obj\Debug\netcoreapp2.2\Infra.dll
+C:\Users\apchaves\Documents\IPV4Learning\Infra\obj\Debug\netcoreapp2.2\Infra.pdb
+C:\Users\annac\OneDrive\Área de Trabalho\IPV4Learning\Infra\bin\Debug\netcoreapp2.2\Infra.deps.json
+C:\Users\annac\OneDrive\Área de Trabalho\IPV4Learning\Infra\bin\Debug\netcoreapp2.2\Infra.runtimeconfig.json
+C:\Users\annac\OneDrive\Área de Trabalho\IPV4Learning\Infra\bin\Debug\netcoreapp2.2\Infra.runtimeconfig.dev.json
+C:\Users\annac\OneDrive\Área de Trabalho\IPV4Learning\Infra\bin\Debug\netcoreapp2.2\Infra.dll
+C:\Users\annac\OneDrive\Área de Trabalho\IPV4Learning\Infra\bin\Debug\netcoreapp2.2\Infra.pdb
+C:\Users\annac\OneDrive\Área de Trabalho\IPV4Learning\Infra\bin\Debug\netcoreapp2.2\CrossCutting.dll
+C:\Users\annac\OneDrive\Área de Trabalho\IPV4Learning\Infra\bin\Debug\netcoreapp2.2\Domain.dll
+C:\Users\annac\OneDrive\Área de Trabalho\IPV4Learning\Infra\bin\Debug\netcoreapp2.2\Service.dll
+C:\Users\annac\OneDrive\Área de Trabalho\IPV4Learning\Infra\bin\Debug\netcoreapp2.2\CrossCutting.pdb
+C:\Users\annac\OneDrive\Área de Trabalho\IPV4Learning\Infra\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\Users\annac\OneDrive\Área de Trabalho\IPV4Learning\Infra\bin\Debug\netcoreapp2.2\Service.pdb
+C:\Users\annac\OneDrive\Área de Trabalho\IPV4Learning\Infra\obj\Debug\netcoreapp2.2\Infra.csprojAssemblyReference.cache
+C:\Users\annac\OneDrive\Área de Trabalho\IPV4Learning\Infra\obj\Debug\netcoreapp2.2\Infra.AssemblyInfoInputs.cache
+C:\Users\annac\OneDrive\Área de Trabalho\IPV4Learning\Infra\obj\Debug\netcoreapp2.2\Infra.AssemblyInfo.cs
+C:\Users\annac\OneDrive\Área de Trabalho\IPV4Learning\Infra\obj\Debug\netcoreapp2.2\Infra.csproj.CopyComplete
+C:\Users\annac\OneDrive\Área de Trabalho\IPV4Learning\Infra\obj\Debug\netcoreapp2.2\Infra.dll
+C:\Users\annac\OneDrive\Área de Trabalho\IPV4Learning\Infra\obj\Debug\netcoreapp2.2\Infra.pdb
+C:\LAB\IPV4Learning\Infra\bin\Debug\netcoreapp2.2\Infra.deps.json
+C:\LAB\IPV4Learning\Infra\bin\Debug\netcoreapp2.2\Infra.runtimeconfig.json
+C:\LAB\IPV4Learning\Infra\bin\Debug\netcoreapp2.2\Infra.runtimeconfig.dev.json
+C:\LAB\IPV4Learning\Infra\bin\Debug\netcoreapp2.2\Infra.dll
+C:\LAB\IPV4Learning\Infra\bin\Debug\netcoreapp2.2\Infra.pdb
+C:\LAB\IPV4Learning\Infra\bin\Debug\netcoreapp2.2\CrossCutting.dll
+C:\LAB\IPV4Learning\Infra\bin\Debug\netcoreapp2.2\Domain.dll
+C:\LAB\IPV4Learning\Infra\bin\Debug\netcoreapp2.2\Service.dll
+C:\LAB\IPV4Learning\Infra\bin\Debug\netcoreapp2.2\CrossCutting.pdb
+C:\LAB\IPV4Learning\Infra\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\LAB\IPV4Learning\Infra\bin\Debug\netcoreapp2.2\Service.pdb
+C:\LAB\IPV4Learning\Infra\obj\Debug\netcoreapp2.2\Infra.csprojAssemblyReference.cache
+C:\LAB\IPV4Learning\Infra\obj\Debug\netcoreapp2.2\Infra.AssemblyInfoInputs.cache
+C:\LAB\IPV4Learning\Infra\obj\Debug\netcoreapp2.2\Infra.AssemblyInfo.cs
+C:\LAB\IPV4Learning\Infra\obj\Debug\netcoreapp2.2\Infra.csproj.CopyComplete
+C:\LAB\IPV4Learning\Infra\obj\Debug\netcoreapp2.2\Infra.dll
+C:\LAB\IPV4Learning\Infra\obj\Debug\netcoreapp2.2\Infra.pdb
+D:\IPV4Learning\Infra\bin\Debug\netcoreapp2.2\Infra.deps.json
+D:\IPV4Learning\Infra\bin\Debug\netcoreapp2.2\Infra.runtimeconfig.json
+D:\IPV4Learning\Infra\bin\Debug\netcoreapp2.2\Infra.runtimeconfig.dev.json
+D:\IPV4Learning\Infra\bin\Debug\netcoreapp2.2\Infra.dll
+D:\IPV4Learning\Infra\bin\Debug\netcoreapp2.2\Infra.pdb
+D:\IPV4Learning\Infra\bin\Debug\netcoreapp2.2\CrossCutting.dll
+D:\IPV4Learning\Infra\bin\Debug\netcoreapp2.2\Domain.dll
+D:\IPV4Learning\Infra\bin\Debug\netcoreapp2.2\Service.dll
+D:\IPV4Learning\Infra\bin\Debug\netcoreapp2.2\CrossCutting.pdb
+D:\IPV4Learning\Infra\bin\Debug\netcoreapp2.2\Domain.pdb
+D:\IPV4Learning\Infra\bin\Debug\netcoreapp2.2\Service.pdb
+D:\IPV4Learning\Infra\obj\Debug\netcoreapp2.2\Infra.csprojAssemblyReference.cache
+D:\IPV4Learning\Infra\obj\Debug\netcoreapp2.2\Infra.AssemblyInfoInputs.cache
+D:\IPV4Learning\Infra\obj\Debug\netcoreapp2.2\Infra.AssemblyInfo.cs
+D:\IPV4Learning\Infra\obj\Debug\netcoreapp2.2\Infra.csproj.CopyComplete
+D:\IPV4Learning\Infra\obj\Debug\netcoreapp2.2\Infra.dll
+D:\IPV4Learning\Infra\obj\Debug\netcoreapp2.2\Infra.pdb
+C:\Users\anabr\Documents\tcc\IPV4Learning\Infra\bin\Debug\netcoreapp2.2\Infra.deps.json
+C:\Users\anabr\Documents\tcc\IPV4Learning\Infra\bin\Debug\netcoreapp2.2\Infra.runtimeconfig.json
+C:\Users\anabr\Documents\tcc\IPV4Learning\Infra\bin\Debug\netcoreapp2.2\Infra.runtimeconfig.dev.json
+C:\Users\anabr\Documents\tcc\IPV4Learning\Infra\bin\Debug\netcoreapp2.2\Infra.dll
+C:\Users\anabr\Documents\tcc\IPV4Learning\Infra\bin\Debug\netcoreapp2.2\Infra.pdb
+C:\Users\anabr\Documents\tcc\IPV4Learning\Infra\bin\Debug\netcoreapp2.2\CrossCutting.dll
+C:\Users\anabr\Documents\tcc\IPV4Learning\Infra\bin\Debug\netcoreapp2.2\Domain.dll
+C:\Users\anabr\Documents\tcc\IPV4Learning\Infra\bin\Debug\netcoreapp2.2\Service.dll
+C:\Users\anabr\Documents\tcc\IPV4Learning\Infra\bin\Debug\netcoreapp2.2\CrossCutting.pdb
+C:\Users\anabr\Documents\tcc\IPV4Learning\Infra\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\Users\anabr\Documents\tcc\IPV4Learning\Infra\bin\Debug\netcoreapp2.2\Service.pdb
+C:\Users\anabr\Documents\tcc\IPV4Learning\Infra\obj\Debug\netcoreapp2.2\Infra.csprojAssemblyReference.cache
+C:\Users\anabr\Documents\tcc\IPV4Learning\Infra\obj\Debug\netcoreapp2.2\Infra.csproj.CoreCompileInputs.cache
+C:\Users\anabr\Documents\tcc\IPV4Learning\Infra\obj\Debug\netcoreapp2.2\Infra.AssemblyInfoInputs.cache
+C:\Users\anabr\Documents\tcc\IPV4Learning\Infra\obj\Debug\netcoreapp2.2\Infra.AssemblyInfo.cs
+C:\Users\anabr\Documents\tcc\IPV4Learning\Infra\obj\Debug\netcoreapp2.2\Infra.csproj.CopyComplete
+C:\Users\anabr\Documents\tcc\IPV4Learning\Infra\obj\Debug\netcoreapp2.2\Infra.dll
+C:\Users\anabr\Documents\tcc\IPV4Learning\Infra\obj\Debug\netcoreapp2.2\Infra.pdb
+C:\Users\anabr\Documents\tcc\IPV4Learning\Infra\obj\Debug\netcoreapp2.2\Infra.genruntimeconfig.cache

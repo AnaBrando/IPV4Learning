@@ -1,0 +1,42 @@
+﻿@model IEnumerable<CrossCutting.Model.ApplicationUser>
+@{
+    ViewData["Title"] = "Gerenciamento";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Gerenciamento</h1>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.UserName)
+                @Html.DisplayNameFor(model => model.Email)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.UserName)
+                @Html.DisplayFor(modelItem => item.Email)
+              
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id">Dados</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Progresso Cognitivo</a> |
+       
+            </td>
+            <td>
+                @{
+                    var base64 = Convert.ToBase64String(item.PhotoFile); ;
+                    var imgSrc = String.Format("data:image/gif;base64,{0}", base64);
+                }
+                <img src='@imgSrc' width="100" height="100" />
+            </td>
+        </tr>
+        }
+    </tbody>
+</table>

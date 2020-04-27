@@ -1,0 +1,324 @@
+C:\Users\Administrador\Pictures\CursoTestUnity\DDD\NetworkLearningTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Administrador\Pictures\CursoTestUnity\DDD\NetworkLearningTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Administrador\Pictures\CursoTestUnity\DDD\NetworkLearningTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Administrador\Pictures\CursoTestUnity\DDD\NetworkLearningTest\bin\Debug\netcoreapp2.2\TestNetWork.deps.json
+C:\Users\Administrador\Pictures\CursoTestUnity\DDD\NetworkLearningTest\bin\Debug\netcoreapp2.2\TestNetWork.runtimeconfig.json
+C:\Users\Administrador\Pictures\CursoTestUnity\DDD\NetworkLearningTest\bin\Debug\netcoreapp2.2\TestNetWork.runtimeconfig.dev.json
+C:\Users\Administrador\Pictures\CursoTestUnity\DDD\NetworkLearningTest\bin\Debug\netcoreapp2.2\TestNetWork.dll
+C:\Users\Administrador\Pictures\CursoTestUnity\DDD\NetworkLearningTest\bin\Debug\netcoreapp2.2\TestNetWork.pdb
+C:\Users\Administrador\Pictures\CursoTestUnity\DDD\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.csprojAssemblyReference.cache
+C:\Users\Administrador\Pictures\CursoTestUnity\DDD\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Pictures\CursoTestUnity\DDD\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.AssemblyInfoInputs.cache
+C:\Users\Administrador\Pictures\CursoTestUnity\DDD\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.AssemblyInfo.cs
+C:\Users\Administrador\Pictures\CursoTestUnity\DDD\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.dll
+C:\Users\Administrador\Pictures\CursoTestUnity\DDD\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.pdb
+C:\teste\DDD\NetworkLearningTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\teste\DDD\NetworkLearningTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\teste\DDD\NetworkLearningTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\teste\DDD\NetworkLearningTest\bin\Debug\netcoreapp2.2\TestNetWork.deps.json
+C:\teste\DDD\NetworkLearningTest\bin\Debug\netcoreapp2.2\TestNetWork.runtimeconfig.json
+C:\teste\DDD\NetworkLearningTest\bin\Debug\netcoreapp2.2\TestNetWork.runtimeconfig.dev.json
+C:\teste\DDD\NetworkLearningTest\bin\Debug\netcoreapp2.2\TestNetWork.dll
+C:\teste\DDD\NetworkLearningTest\bin\Debug\netcoreapp2.2\TestNetWork.pdb
+C:\teste\DDD\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.csprojAssemblyReference.cache
+C:\teste\DDD\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.csproj.CoreCompileInputs.cache
+C:\teste\DDD\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.AssemblyInfoInputs.cache
+C:\teste\DDD\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.AssemblyInfo.cs
+C:\teste\DDD\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.dll
+C:\teste\DDD\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.pdb
+C:\Users\annac\OneDrive\Documentos\DDD\NetworkLearningTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\annac\OneDrive\Documentos\DDD\NetworkLearningTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\annac\OneDrive\Documentos\DDD\NetworkLearningTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\annac\OneDrive\Documentos\DDD\NetworkLearningTest\bin\Debug\netcoreapp2.2\TestNetWork.deps.json
+C:\Users\annac\OneDrive\Documentos\DDD\NetworkLearningTest\bin\Debug\netcoreapp2.2\TestNetWork.runtimeconfig.json
+C:\Users\annac\OneDrive\Documentos\DDD\NetworkLearningTest\bin\Debug\netcoreapp2.2\TestNetWork.runtimeconfig.dev.json
+C:\Users\annac\OneDrive\Documentos\DDD\NetworkLearningTest\bin\Debug\netcoreapp2.2\TestNetWork.dll
+C:\Users\annac\OneDrive\Documentos\DDD\NetworkLearningTest\bin\Debug\netcoreapp2.2\TestNetWork.pdb
+C:\Users\annac\OneDrive\Documentos\DDD\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.csprojAssemblyReference.cache
+C:\Users\annac\OneDrive\Documentos\DDD\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.AssemblyInfoInputs.cache
+C:\Users\annac\OneDrive\Documentos\DDD\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.AssemblyInfo.cs
+C:\Users\annac\OneDrive\Documentos\DDD\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.dll
+C:\Users\annac\OneDrive\Documentos\DDD\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.pdb
+C:\Users\annac\Downloads\DDD\NetworkLearningTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\annac\Downloads\DDD\NetworkLearningTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\annac\Downloads\DDD\NetworkLearningTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\annac\Downloads\DDD\NetworkLearningTest\bin\Debug\netcoreapp2.2\TestNetWork.deps.json
+C:\Users\annac\Downloads\DDD\NetworkLearningTest\bin\Debug\netcoreapp2.2\TestNetWork.runtimeconfig.json
+C:\Users\annac\Downloads\DDD\NetworkLearningTest\bin\Debug\netcoreapp2.2\TestNetWork.runtimeconfig.dev.json
+C:\Users\annac\Downloads\DDD\NetworkLearningTest\bin\Debug\netcoreapp2.2\TestNetWork.dll
+C:\Users\annac\Downloads\DDD\NetworkLearningTest\bin\Debug\netcoreapp2.2\TestNetWork.pdb
+C:\Users\annac\Downloads\DDD\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.csprojAssemblyReference.cache
+C:\Users\annac\Downloads\DDD\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.AssemblyInfoInputs.cache
+C:\Users\annac\Downloads\DDD\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.AssemblyInfo.cs
+C:\Users\annac\Downloads\DDD\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.dll
+C:\Users\annac\Downloads\DDD\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.pdb
+C:\Users\Administrador\Pictures\DDD\NetworkLearningTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Administrador\Pictures\DDD\NetworkLearningTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Administrador\Pictures\DDD\NetworkLearningTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Administrador\Pictures\DDD\NetworkLearningTest\bin\Debug\netcoreapp2.2\TestNetWork.deps.json
+C:\Users\Administrador\Pictures\DDD\NetworkLearningTest\bin\Debug\netcoreapp2.2\TestNetWork.runtimeconfig.json
+C:\Users\Administrador\Pictures\DDD\NetworkLearningTest\bin\Debug\netcoreapp2.2\TestNetWork.runtimeconfig.dev.json
+C:\Users\Administrador\Pictures\DDD\NetworkLearningTest\bin\Debug\netcoreapp2.2\TestNetWork.dll
+C:\Users\Administrador\Pictures\DDD\NetworkLearningTest\bin\Debug\netcoreapp2.2\TestNetWork.pdb
+C:\Users\Administrador\Pictures\DDD\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.csprojAssemblyReference.cache
+C:\Users\Administrador\Pictures\DDD\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Pictures\DDD\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.AssemblyInfoInputs.cache
+C:\Users\Administrador\Pictures\DDD\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.AssemblyInfo.cs
+C:\Users\Administrador\Pictures\DDD\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.dll
+C:\Users\Administrador\Pictures\DDD\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.pdb
+C:\Users\Administrador\Documents\teste\DDD\NetworkLearningTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Administrador\Documents\teste\DDD\NetworkLearningTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Administrador\Documents\teste\DDD\NetworkLearningTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Administrador\Documents\teste\DDD\NetworkLearningTest\bin\Debug\netcoreapp2.2\TestNetWork.deps.json
+C:\Users\Administrador\Documents\teste\DDD\NetworkLearningTest\bin\Debug\netcoreapp2.2\TestNetWork.runtimeconfig.json
+C:\Users\Administrador\Documents\teste\DDD\NetworkLearningTest\bin\Debug\netcoreapp2.2\TestNetWork.runtimeconfig.dev.json
+C:\Users\Administrador\Documents\teste\DDD\NetworkLearningTest\bin\Debug\netcoreapp2.2\TestNetWork.dll
+C:\Users\Administrador\Documents\teste\DDD\NetworkLearningTest\bin\Debug\netcoreapp2.2\TestNetWork.pdb
+C:\Users\Administrador\Documents\teste\DDD\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.csprojAssemblyReference.cache
+C:\Users\Administrador\Documents\teste\DDD\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\teste\DDD\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.AssemblyInfoInputs.cache
+C:\Users\Administrador\Documents\teste\DDD\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.AssemblyInfo.cs
+C:\Users\Administrador\Documents\teste\DDD\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.dll
+C:\Users\Administrador\Documents\teste\DDD\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.pdb
+C:\Users\annac\OneDrive\Imagens\Imagens da Câmera\DDD\NetworkLearningTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\annac\OneDrive\Imagens\Imagens da Câmera\DDD\NetworkLearningTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\annac\OneDrive\Imagens\Imagens da Câmera\DDD\NetworkLearningTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\annac\OneDrive\Imagens\Imagens da Câmera\DDD\NetworkLearningTest\bin\Debug\netcoreapp2.2\TestNetWork.deps.json
+C:\Users\annac\OneDrive\Imagens\Imagens da Câmera\DDD\NetworkLearningTest\bin\Debug\netcoreapp2.2\TestNetWork.runtimeconfig.json
+C:\Users\annac\OneDrive\Imagens\Imagens da Câmera\DDD\NetworkLearningTest\bin\Debug\netcoreapp2.2\TestNetWork.runtimeconfig.dev.json
+C:\Users\annac\OneDrive\Imagens\Imagens da Câmera\DDD\NetworkLearningTest\bin\Debug\netcoreapp2.2\TestNetWork.dll
+C:\Users\annac\OneDrive\Imagens\Imagens da Câmera\DDD\NetworkLearningTest\bin\Debug\netcoreapp2.2\TestNetWork.pdb
+C:\Users\annac\OneDrive\Imagens\Imagens da Câmera\DDD\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.csprojAssemblyReference.cache
+C:\Users\annac\OneDrive\Imagens\Imagens da Câmera\DDD\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.AssemblyInfoInputs.cache
+C:\Users\annac\OneDrive\Imagens\Imagens da Câmera\DDD\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.AssemblyInfo.cs
+C:\Users\annac\OneDrive\Imagens\Imagens da Câmera\DDD\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.dll
+C:\Users\annac\OneDrive\Imagens\Imagens da Câmera\DDD\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.pdb
+C:\Users\annac\OneDrive\Imagens\DDD\NetworkLearningTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\annac\OneDrive\Imagens\DDD\NetworkLearningTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\annac\OneDrive\Imagens\DDD\NetworkLearningTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\annac\OneDrive\Imagens\DDD\NetworkLearningTest\bin\Debug\netcoreapp2.2\TestNetWork.deps.json
+C:\Users\annac\OneDrive\Imagens\DDD\NetworkLearningTest\bin\Debug\netcoreapp2.2\TestNetWork.runtimeconfig.json
+C:\Users\annac\OneDrive\Imagens\DDD\NetworkLearningTest\bin\Debug\netcoreapp2.2\TestNetWork.runtimeconfig.dev.json
+C:\Users\annac\OneDrive\Imagens\DDD\NetworkLearningTest\bin\Debug\netcoreapp2.2\TestNetWork.dll
+C:\Users\annac\OneDrive\Imagens\DDD\NetworkLearningTest\bin\Debug\netcoreapp2.2\TestNetWork.pdb
+C:\Users\annac\OneDrive\Imagens\DDD\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.AssemblyInfoInputs.cache
+C:\Users\annac\OneDrive\Imagens\DDD\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.AssemblyInfo.cs
+C:\Users\annac\OneDrive\Imagens\DDD\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.dll
+C:\Users\annac\OneDrive\Imagens\DDD\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.pdb
+C:\Lab\TCC\TCC\NetworkLearningTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Lab\TCC\TCC\NetworkLearningTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Lab\TCC\TCC\NetworkLearningTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Lab\TCC\TCC\NetworkLearningTest\bin\Debug\netcoreapp2.2\TestNetWork.deps.json
+C:\Lab\TCC\TCC\NetworkLearningTest\bin\Debug\netcoreapp2.2\TestNetWork.runtimeconfig.json
+C:\Lab\TCC\TCC\NetworkLearningTest\bin\Debug\netcoreapp2.2\TestNetWork.runtimeconfig.dev.json
+C:\Lab\TCC\TCC\NetworkLearningTest\bin\Debug\netcoreapp2.2\TestNetWork.dll
+C:\Lab\TCC\TCC\NetworkLearningTest\bin\Debug\netcoreapp2.2\TestNetWork.pdb
+C:\Lab\TCC\TCC\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.AssemblyInfoInputs.cache
+C:\Lab\TCC\TCC\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.AssemblyInfo.cs
+C:\Lab\TCC\TCC\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.dll
+C:\Lab\TCC\TCC\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.pdb
+C:\Lab\Nova pasta\TCC\NetworkLearningTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Lab\Nova pasta\TCC\NetworkLearningTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Lab\Nova pasta\TCC\NetworkLearningTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Lab\Nova pasta\TCC\NetworkLearningTest\bin\Debug\netcoreapp2.2\TestNetWork.deps.json
+C:\Lab\Nova pasta\TCC\NetworkLearningTest\bin\Debug\netcoreapp2.2\TestNetWork.runtimeconfig.json
+C:\Lab\Nova pasta\TCC\NetworkLearningTest\bin\Debug\netcoreapp2.2\TestNetWork.runtimeconfig.dev.json
+C:\Lab\Nova pasta\TCC\NetworkLearningTest\bin\Debug\netcoreapp2.2\TestNetWork.dll
+C:\Lab\Nova pasta\TCC\NetworkLearningTest\bin\Debug\netcoreapp2.2\TestNetWork.pdb
+C:\Lab\Nova pasta\TCC\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.csprojAssemblyReference.cache
+C:\Lab\Nova pasta\TCC\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.AssemblyInfoInputs.cache
+C:\Lab\Nova pasta\TCC\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.AssemblyInfo.cs
+C:\Lab\Nova pasta\TCC\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.dll
+C:\Lab\Nova pasta\TCC\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.pdb
+C:\Users\apchaves\Desktop\Nova pasta\TCC\NetworkLearningTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\apchaves\Desktop\Nova pasta\TCC\NetworkLearningTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\apchaves\Desktop\Nova pasta\TCC\NetworkLearningTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\apchaves\Desktop\Nova pasta\TCC\NetworkLearningTest\bin\Debug\netcoreapp2.2\TestNetWork.deps.json
+C:\Users\apchaves\Desktop\Nova pasta\TCC\NetworkLearningTest\bin\Debug\netcoreapp2.2\TestNetWork.runtimeconfig.json
+C:\Users\apchaves\Desktop\Nova pasta\TCC\NetworkLearningTest\bin\Debug\netcoreapp2.2\TestNetWork.runtimeconfig.dev.json
+C:\Users\apchaves\Desktop\Nova pasta\TCC\NetworkLearningTest\bin\Debug\netcoreapp2.2\TestNetWork.dll
+C:\Users\apchaves\Desktop\Nova pasta\TCC\NetworkLearningTest\bin\Debug\netcoreapp2.2\TestNetWork.pdb
+C:\Users\apchaves\Desktop\Nova pasta\TCC\NetworkLearningTest\bin\Debug\netcoreapp2.2\CrossCutting.dll
+C:\Users\apchaves\Desktop\Nova pasta\TCC\NetworkLearningTest\bin\Debug\netcoreapp2.2\Domain.dll
+C:\Users\apchaves\Desktop\Nova pasta\TCC\NetworkLearningTest\bin\Debug\netcoreapp2.2\Service.dll
+C:\Users\apchaves\Desktop\Nova pasta\TCC\NetworkLearningTest\bin\Debug\netcoreapp2.2\Service.pdb
+C:\Users\apchaves\Desktop\Nova pasta\TCC\NetworkLearningTest\bin\Debug\netcoreapp2.2\CrossCutting.pdb
+C:\Users\apchaves\Desktop\Nova pasta\TCC\NetworkLearningTest\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\Users\apchaves\Desktop\Nova pasta\TCC\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.csprojAssemblyReference.cache
+C:\Users\apchaves\Desktop\Nova pasta\TCC\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.AssemblyInfoInputs.cache
+C:\Users\apchaves\Desktop\Nova pasta\TCC\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.AssemblyInfo.cs
+C:\Users\apchaves\Desktop\Nova pasta\TCC\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.csproj.CopyComplete
+C:\Users\apchaves\Desktop\Nova pasta\TCC\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.dll
+C:\Users\apchaves\Desktop\Nova pasta\TCC\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.pdb
+C:\Users\apchaves\Documents\TCC\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.csprojAssemblyReference.cache
+C:\Users\apchaves\Documents\TCC\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.AssemblyInfoInputs.cache
+C:\Users\apchaves\Documents\TCC\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.AssemblyInfo.cs
+C:\Users\apchaves\Documents\TCC\NetworkLearningTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\apchaves\Documents\TCC\NetworkLearningTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\apchaves\Documents\TCC\NetworkLearningTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\apchaves\Documents\TCC\NetworkLearningTest\bin\Debug\netcoreapp2.2\TestNetWork.deps.json
+C:\Users\apchaves\Documents\TCC\NetworkLearningTest\bin\Debug\netcoreapp2.2\TestNetWork.runtimeconfig.json
+C:\Users\apchaves\Documents\TCC\NetworkLearningTest\bin\Debug\netcoreapp2.2\TestNetWork.runtimeconfig.dev.json
+C:\Users\apchaves\Documents\TCC\NetworkLearningTest\bin\Debug\netcoreapp2.2\TestNetWork.dll
+C:\Users\apchaves\Documents\TCC\NetworkLearningTest\bin\Debug\netcoreapp2.2\TestNetWork.pdb
+C:\Users\apchaves\Documents\TCC\NetworkLearningTest\bin\Debug\netcoreapp2.2\CrossCutting.dll
+C:\Users\apchaves\Documents\TCC\NetworkLearningTest\bin\Debug\netcoreapp2.2\Domain.dll
+C:\Users\apchaves\Documents\TCC\NetworkLearningTest\bin\Debug\netcoreapp2.2\Service.dll
+C:\Users\apchaves\Documents\TCC\NetworkLearningTest\bin\Debug\netcoreapp2.2\Service.pdb
+C:\Users\apchaves\Documents\TCC\NetworkLearningTest\bin\Debug\netcoreapp2.2\CrossCutting.pdb
+C:\Users\apchaves\Documents\TCC\NetworkLearningTest\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\Users\apchaves\Documents\TCC\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.csproj.CopyComplete
+C:\Users\apchaves\Documents\TCC\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.dll
+C:\Users\apchaves\Documents\TCC\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.pdb
+C:\Lab\TCC\TCC\NetworkLearningTest\bin\Debug\netcoreapp2.2\Domain.dll
+C:\Lab\TCC\TCC\NetworkLearningTest\bin\Debug\netcoreapp2.2\Service.dll
+C:\Lab\TCC\TCC\NetworkLearningTest\bin\Debug\netcoreapp2.2\Service.pdb
+C:\Lab\TCC\TCC\NetworkLearningTest\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\Lab\TCC\TCC\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.csprojAssemblyReference.cache
+C:\Lab\TCC\TCC\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.csproj.CopyComplete
+C:\Users\annac\OneDrive\Área de Trabalho\ana\TCC\NetworkLearningTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\annac\OneDrive\Área de Trabalho\ana\TCC\NetworkLearningTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\annac\OneDrive\Área de Trabalho\ana\TCC\NetworkLearningTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\annac\OneDrive\Área de Trabalho\ana\TCC\NetworkLearningTest\bin\Debug\netcoreapp2.2\TestNetWork.deps.json
+C:\Users\annac\OneDrive\Área de Trabalho\ana\TCC\NetworkLearningTest\bin\Debug\netcoreapp2.2\TestNetWork.runtimeconfig.json
+C:\Users\annac\OneDrive\Área de Trabalho\ana\TCC\NetworkLearningTest\bin\Debug\netcoreapp2.2\TestNetWork.runtimeconfig.dev.json
+C:\Users\annac\OneDrive\Área de Trabalho\ana\TCC\NetworkLearningTest\bin\Debug\netcoreapp2.2\TestNetWork.dll
+C:\Users\annac\OneDrive\Área de Trabalho\ana\TCC\NetworkLearningTest\bin\Debug\netcoreapp2.2\TestNetWork.pdb
+C:\Users\annac\OneDrive\Área de Trabalho\ana\TCC\NetworkLearningTest\bin\Debug\netcoreapp2.2\Domain.dll
+C:\Users\annac\OneDrive\Área de Trabalho\ana\TCC\NetworkLearningTest\bin\Debug\netcoreapp2.2\Service.dll
+C:\Users\annac\OneDrive\Área de Trabalho\ana\TCC\NetworkLearningTest\bin\Debug\netcoreapp2.2\Service.pdb
+C:\Users\annac\OneDrive\Área de Trabalho\ana\TCC\NetworkLearningTest\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\Users\annac\OneDrive\Área de Trabalho\ana\TCC\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.csprojAssemblyReference.cache
+C:\Users\annac\OneDrive\Área de Trabalho\ana\TCC\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.AssemblyInfoInputs.cache
+C:\Users\annac\OneDrive\Área de Trabalho\ana\TCC\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.AssemblyInfo.cs
+C:\Users\annac\OneDrive\Área de Trabalho\ana\TCC\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.csproj.CopyComplete
+C:\Users\annac\OneDrive\Área de Trabalho\ana\TCC\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.dll
+C:\Users\annac\OneDrive\Área de Trabalho\ana\TCC\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.pdb
+C:\Users\apchaves\Documents\TCC\TCC\NetworkLearningTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\apchaves\Documents\TCC\TCC\NetworkLearningTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\apchaves\Documents\TCC\TCC\NetworkLearningTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\apchaves\Documents\TCC\TCC\NetworkLearningTest\bin\Debug\netcoreapp2.2\TestNetWork.deps.json
+C:\Users\apchaves\Documents\TCC\TCC\NetworkLearningTest\bin\Debug\netcoreapp2.2\TestNetWork.runtimeconfig.json
+C:\Users\apchaves\Documents\TCC\TCC\NetworkLearningTest\bin\Debug\netcoreapp2.2\TestNetWork.runtimeconfig.dev.json
+C:\Users\apchaves\Documents\TCC\TCC\NetworkLearningTest\bin\Debug\netcoreapp2.2\TestNetWork.dll
+C:\Users\apchaves\Documents\TCC\TCC\NetworkLearningTest\bin\Debug\netcoreapp2.2\TestNetWork.pdb
+C:\Users\apchaves\Documents\TCC\TCC\NetworkLearningTest\bin\Debug\netcoreapp2.2\Domain.dll
+C:\Users\apchaves\Documents\TCC\TCC\NetworkLearningTest\bin\Debug\netcoreapp2.2\Service.dll
+C:\Users\apchaves\Documents\TCC\TCC\NetworkLearningTest\bin\Debug\netcoreapp2.2\Service.pdb
+C:\Users\apchaves\Documents\TCC\TCC\NetworkLearningTest\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\Users\apchaves\Documents\TCC\TCC\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.csprojAssemblyReference.cache
+C:\Users\apchaves\Documents\TCC\TCC\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.AssemblyInfoInputs.cache
+C:\Users\apchaves\Documents\TCC\TCC\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.AssemblyInfo.cs
+C:\Users\apchaves\Documents\TCC\TCC\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.csproj.CopyComplete
+C:\Users\apchaves\Documents\TCC\TCC\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.dll
+C:\Users\apchaves\Documents\TCC\TCC\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.pdb
+C:\LAB\TCC\NetworkLearningTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\LAB\TCC\NetworkLearningTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\LAB\TCC\NetworkLearningTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\LAB\TCC\NetworkLearningTest\bin\Debug\netcoreapp2.2\TestNetWork.deps.json
+C:\LAB\TCC\NetworkLearningTest\bin\Debug\netcoreapp2.2\TestNetWork.runtimeconfig.json
+C:\LAB\TCC\NetworkLearningTest\bin\Debug\netcoreapp2.2\TestNetWork.runtimeconfig.dev.json
+C:\LAB\TCC\NetworkLearningTest\bin\Debug\netcoreapp2.2\TestNetWork.dll
+C:\LAB\TCC\NetworkLearningTest\bin\Debug\netcoreapp2.2\TestNetWork.pdb
+C:\LAB\TCC\NetworkLearningTest\bin\Debug\netcoreapp2.2\Domain.dll
+C:\LAB\TCC\NetworkLearningTest\bin\Debug\netcoreapp2.2\Service.dll
+C:\LAB\TCC\NetworkLearningTest\bin\Debug\netcoreapp2.2\Service.pdb
+C:\LAB\TCC\NetworkLearningTest\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\LAB\TCC\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.csprojAssemblyReference.cache
+C:\LAB\TCC\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.AssemblyInfoInputs.cache
+C:\LAB\TCC\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.AssemblyInfo.cs
+C:\LAB\TCC\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.csproj.CopyComplete
+C:\LAB\TCC\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.dll
+C:\LAB\TCC\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.pdb
+C:\Users\apchaves\Documents\IPV4Learning\NetworkLearningTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\apchaves\Documents\IPV4Learning\NetworkLearningTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\apchaves\Documents\IPV4Learning\NetworkLearningTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\apchaves\Documents\IPV4Learning\NetworkLearningTest\bin\Debug\netcoreapp2.2\TestNetWork.deps.json
+C:\Users\apchaves\Documents\IPV4Learning\NetworkLearningTest\bin\Debug\netcoreapp2.2\TestNetWork.runtimeconfig.json
+C:\Users\apchaves\Documents\IPV4Learning\NetworkLearningTest\bin\Debug\netcoreapp2.2\TestNetWork.runtimeconfig.dev.json
+C:\Users\apchaves\Documents\IPV4Learning\NetworkLearningTest\bin\Debug\netcoreapp2.2\TestNetWork.dll
+C:\Users\apchaves\Documents\IPV4Learning\NetworkLearningTest\bin\Debug\netcoreapp2.2\TestNetWork.pdb
+C:\Users\apchaves\Documents\IPV4Learning\NetworkLearningTest\bin\Debug\netcoreapp2.2\Domain.dll
+C:\Users\apchaves\Documents\IPV4Learning\NetworkLearningTest\bin\Debug\netcoreapp2.2\Service.dll
+C:\Users\apchaves\Documents\IPV4Learning\NetworkLearningTest\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\Users\apchaves\Documents\IPV4Learning\NetworkLearningTest\bin\Debug\netcoreapp2.2\Service.pdb
+C:\Users\apchaves\Documents\IPV4Learning\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.csprojAssemblyReference.cache
+C:\Users\apchaves\Documents\IPV4Learning\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.AssemblyInfoInputs.cache
+C:\Users\apchaves\Documents\IPV4Learning\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.AssemblyInfo.cs
+C:\Users\apchaves\Documents\IPV4Learning\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.csproj.CopyComplete
+C:\Users\apchaves\Documents\IPV4Learning\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.dll
+C:\Users\apchaves\Documents\IPV4Learning\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.pdb
+C:\Users\annac\OneDrive\Área de Trabalho\IPV4Learning\NetworkLearningTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\annac\OneDrive\Área de Trabalho\IPV4Learning\NetworkLearningTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\annac\OneDrive\Área de Trabalho\IPV4Learning\NetworkLearningTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\annac\OneDrive\Área de Trabalho\IPV4Learning\NetworkLearningTest\bin\Debug\netcoreapp2.2\TestNetWork.deps.json
+C:\Users\annac\OneDrive\Área de Trabalho\IPV4Learning\NetworkLearningTest\bin\Debug\netcoreapp2.2\TestNetWork.runtimeconfig.json
+C:\Users\annac\OneDrive\Área de Trabalho\IPV4Learning\NetworkLearningTest\bin\Debug\netcoreapp2.2\TestNetWork.runtimeconfig.dev.json
+C:\Users\annac\OneDrive\Área de Trabalho\IPV4Learning\NetworkLearningTest\bin\Debug\netcoreapp2.2\TestNetWork.dll
+C:\Users\annac\OneDrive\Área de Trabalho\IPV4Learning\NetworkLearningTest\bin\Debug\netcoreapp2.2\TestNetWork.pdb
+C:\Users\annac\OneDrive\Área de Trabalho\IPV4Learning\NetworkLearningTest\bin\Debug\netcoreapp2.2\Domain.dll
+C:\Users\annac\OneDrive\Área de Trabalho\IPV4Learning\NetworkLearningTest\bin\Debug\netcoreapp2.2\Service.dll
+C:\Users\annac\OneDrive\Área de Trabalho\IPV4Learning\NetworkLearningTest\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\Users\annac\OneDrive\Área de Trabalho\IPV4Learning\NetworkLearningTest\bin\Debug\netcoreapp2.2\Service.pdb
+C:\Users\annac\OneDrive\Área de Trabalho\IPV4Learning\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.csprojAssemblyReference.cache
+C:\Users\annac\OneDrive\Área de Trabalho\IPV4Learning\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.AssemblyInfoInputs.cache
+C:\Users\annac\OneDrive\Área de Trabalho\IPV4Learning\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.AssemblyInfo.cs
+C:\Users\annac\OneDrive\Área de Trabalho\IPV4Learning\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.csproj.CopyComplete
+C:\Users\annac\OneDrive\Área de Trabalho\IPV4Learning\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.dll
+C:\Users\annac\OneDrive\Área de Trabalho\IPV4Learning\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.pdb
+D:\IPV4Learning\NetworkLearningTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\IPV4Learning\NetworkLearningTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\IPV4Learning\NetworkLearningTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\IPV4Learning\NetworkLearningTest\bin\Debug\netcoreapp2.2\TestNetWork.deps.json
+D:\IPV4Learning\NetworkLearningTest\bin\Debug\netcoreapp2.2\TestNetWork.runtimeconfig.json
+D:\IPV4Learning\NetworkLearningTest\bin\Debug\netcoreapp2.2\TestNetWork.runtimeconfig.dev.json
+D:\IPV4Learning\NetworkLearningTest\bin\Debug\netcoreapp2.2\TestNetWork.dll
+D:\IPV4Learning\NetworkLearningTest\bin\Debug\netcoreapp2.2\TestNetWork.pdb
+D:\IPV4Learning\NetworkLearningTest\bin\Debug\netcoreapp2.2\Domain.dll
+D:\IPV4Learning\NetworkLearningTest\bin\Debug\netcoreapp2.2\Service.dll
+D:\IPV4Learning\NetworkLearningTest\bin\Debug\netcoreapp2.2\Domain.pdb
+D:\IPV4Learning\NetworkLearningTest\bin\Debug\netcoreapp2.2\Service.pdb
+D:\IPV4Learning\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.csprojAssemblyReference.cache
+D:\IPV4Learning\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.AssemblyInfoInputs.cache
+D:\IPV4Learning\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.AssemblyInfo.cs
+D:\IPV4Learning\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.csproj.CopyComplete
+D:\IPV4Learning\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.dll
+D:\IPV4Learning\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.pdb
+C:\LAB\IPV4Learning\NetworkLearningTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\LAB\IPV4Learning\NetworkLearningTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\LAB\IPV4Learning\NetworkLearningTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\LAB\IPV4Learning\NetworkLearningTest\bin\Debug\netcoreapp2.2\TestNetWork.deps.json
+C:\LAB\IPV4Learning\NetworkLearningTest\bin\Debug\netcoreapp2.2\TestNetWork.runtimeconfig.json
+C:\LAB\IPV4Learning\NetworkLearningTest\bin\Debug\netcoreapp2.2\TestNetWork.runtimeconfig.dev.json
+C:\LAB\IPV4Learning\NetworkLearningTest\bin\Debug\netcoreapp2.2\TestNetWork.dll
+C:\LAB\IPV4Learning\NetworkLearningTest\bin\Debug\netcoreapp2.2\TestNetWork.pdb
+C:\LAB\IPV4Learning\NetworkLearningTest\bin\Debug\netcoreapp2.2\Domain.dll
+C:\LAB\IPV4Learning\NetworkLearningTest\bin\Debug\netcoreapp2.2\Service.dll
+C:\LAB\IPV4Learning\NetworkLearningTest\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\LAB\IPV4Learning\NetworkLearningTest\bin\Debug\netcoreapp2.2\Service.pdb
+C:\LAB\IPV4Learning\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.csprojAssemblyReference.cache
+C:\LAB\IPV4Learning\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.AssemblyInfoInputs.cache
+C:\LAB\IPV4Learning\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.AssemblyInfo.cs
+C:\LAB\IPV4Learning\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.csproj.CopyComplete
+C:\LAB\IPV4Learning\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.dll
+C:\LAB\IPV4Learning\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.pdb
+C:\Users\anabr\Documents\tcc\IPV4Learning\NetworkLearningTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\anabr\Documents\tcc\IPV4Learning\NetworkLearningTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\anabr\Documents\tcc\IPV4Learning\NetworkLearningTest\bin\Debug\netcoreapp2.2\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\anabr\Documents\tcc\IPV4Learning\NetworkLearningTest\bin\Debug\netcoreapp2.2\TestNetWork.deps.json
+C:\Users\anabr\Documents\tcc\IPV4Learning\NetworkLearningTest\bin\Debug\netcoreapp2.2\TestNetWork.runtimeconfig.json
+C:\Users\anabr\Documents\tcc\IPV4Learning\NetworkLearningTest\bin\Debug\netcoreapp2.2\TestNetWork.runtimeconfig.dev.json
+C:\Users\anabr\Documents\tcc\IPV4Learning\NetworkLearningTest\bin\Debug\netcoreapp2.2\TestNetWork.dll
+C:\Users\anabr\Documents\tcc\IPV4Learning\NetworkLearningTest\bin\Debug\netcoreapp2.2\TestNetWork.pdb
+C:\Users\anabr\Documents\tcc\IPV4Learning\NetworkLearningTest\bin\Debug\netcoreapp2.2\Domain.dll
+C:\Users\anabr\Documents\tcc\IPV4Learning\NetworkLearningTest\bin\Debug\netcoreapp2.2\Service.dll
+C:\Users\anabr\Documents\tcc\IPV4Learning\NetworkLearningTest\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\Users\anabr\Documents\tcc\IPV4Learning\NetworkLearningTest\bin\Debug\netcoreapp2.2\Service.pdb
+C:\Users\anabr\Documents\tcc\IPV4Learning\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.csprojAssemblyReference.cache
+C:\Users\anabr\Documents\tcc\IPV4Learning\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.csproj.CoreCompileInputs.cache
+C:\Users\anabr\Documents\tcc\IPV4Learning\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.AssemblyInfoInputs.cache
+C:\Users\anabr\Documents\tcc\IPV4Learning\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.AssemblyInfo.cs
+C:\Users\anabr\Documents\tcc\IPV4Learning\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.csproj.CopyComplete
+C:\Users\anabr\Documents\tcc\IPV4Learning\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.dll
+C:\Users\anabr\Documents\tcc\IPV4Learning\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.pdb
+C:\Users\anabr\Documents\tcc\IPV4Learning\NetworkLearningTest\obj\Debug\netcoreapp2.2\TestNetWork.genruntimeconfig.cache

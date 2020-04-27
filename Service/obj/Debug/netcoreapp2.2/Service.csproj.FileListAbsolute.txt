@@ -1,0 +1,233 @@
+C:\Inferno\Service\bin\Debug\netcoreapp2.2\Service.deps.json
+C:\Inferno\Service\bin\Debug\netcoreapp2.2\Service.dll
+C:\Inferno\Service\bin\Debug\netcoreapp2.2\Service.pdb
+C:\Inferno\Service\bin\Debug\netcoreapp2.2\Domain.dll
+C:\Inferno\Service\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\Inferno\Service\obj\Debug\netcoreapp2.2\Service.csprojAssemblyReference.cache
+C:\Inferno\Service\obj\Debug\netcoreapp2.2\Service.AssemblyInfoInputs.cache
+C:\Inferno\Service\obj\Debug\netcoreapp2.2\Service.AssemblyInfo.cs
+C:\Inferno\Service\obj\Debug\netcoreapp2.2\Service.csproj.CopyComplete
+C:\Inferno\Service\obj\Debug\netcoreapp2.2\Service.dll
+C:\Inferno\Service\obj\Debug\netcoreapp2.2\Service.pdb
+C:\Users\Administrador\Pictures\CursoTestUnity\DDD\Service\bin\Debug\netcoreapp2.2\Service.deps.json
+C:\Users\Administrador\Pictures\CursoTestUnity\DDD\Service\bin\Debug\netcoreapp2.2\Service.dll
+C:\Users\Administrador\Pictures\CursoTestUnity\DDD\Service\bin\Debug\netcoreapp2.2\Service.pdb
+C:\Users\Administrador\Pictures\CursoTestUnity\DDD\Service\bin\Debug\netcoreapp2.2\Domain.dll
+C:\Users\Administrador\Pictures\CursoTestUnity\DDD\Service\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\Users\Administrador\Pictures\CursoTestUnity\DDD\Service\obj\Debug\netcoreapp2.2\Service.csprojAssemblyReference.cache
+C:\Users\Administrador\Pictures\CursoTestUnity\DDD\Service\obj\Debug\netcoreapp2.2\Service.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Pictures\CursoTestUnity\DDD\Service\obj\Debug\netcoreapp2.2\Service.AssemblyInfoInputs.cache
+C:\Users\Administrador\Pictures\CursoTestUnity\DDD\Service\obj\Debug\netcoreapp2.2\Service.AssemblyInfo.cs
+C:\Users\Administrador\Pictures\CursoTestUnity\DDD\Service\obj\Debug\netcoreapp2.2\Service.csproj.CopyComplete
+C:\Users\Administrador\Pictures\CursoTestUnity\DDD\Service\obj\Debug\netcoreapp2.2\Service.dll
+C:\Users\Administrador\Pictures\CursoTestUnity\DDD\Service\obj\Debug\netcoreapp2.2\Service.pdb
+C:\teste\DDD\Service\bin\Debug\netcoreapp2.2\Service.deps.json
+C:\teste\DDD\Service\bin\Debug\netcoreapp2.2\Service.dll
+C:\teste\DDD\Service\bin\Debug\netcoreapp2.2\Service.pdb
+C:\teste\DDD\Service\bin\Debug\netcoreapp2.2\Domain.dll
+C:\teste\DDD\Service\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\teste\DDD\Service\obj\Debug\netcoreapp2.2\Service.csprojAssemblyReference.cache
+C:\teste\DDD\Service\obj\Debug\netcoreapp2.2\Service.csproj.CoreCompileInputs.cache
+C:\teste\DDD\Service\obj\Debug\netcoreapp2.2\Service.AssemblyInfoInputs.cache
+C:\teste\DDD\Service\obj\Debug\netcoreapp2.2\Service.AssemblyInfo.cs
+C:\teste\DDD\Service\obj\Debug\netcoreapp2.2\Service.csproj.CopyComplete
+C:\teste\DDD\Service\obj\Debug\netcoreapp2.2\Service.dll
+C:\teste\DDD\Service\obj\Debug\netcoreapp2.2\Service.pdb
+C:\Users\annac\OneDrive\Documentos\DDD\Service\bin\Debug\netcoreapp2.2\Service.deps.json
+C:\Users\annac\OneDrive\Documentos\DDD\Service\bin\Debug\netcoreapp2.2\Service.dll
+C:\Users\annac\OneDrive\Documentos\DDD\Service\bin\Debug\netcoreapp2.2\Service.pdb
+C:\Users\annac\OneDrive\Documentos\DDD\Service\bin\Debug\netcoreapp2.2\Domain.dll
+C:\Users\annac\OneDrive\Documentos\DDD\Service\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\Users\annac\OneDrive\Documentos\DDD\Service\obj\Debug\netcoreapp2.2\Service.csprojAssemblyReference.cache
+C:\Users\annac\OneDrive\Documentos\DDD\Service\obj\Debug\netcoreapp2.2\Service.AssemblyInfoInputs.cache
+C:\Users\annac\OneDrive\Documentos\DDD\Service\obj\Debug\netcoreapp2.2\Service.AssemblyInfo.cs
+C:\Users\annac\OneDrive\Documentos\DDD\Service\obj\Debug\netcoreapp2.2\Service.csproj.CopyComplete
+C:\Users\annac\OneDrive\Documentos\DDD\Service\obj\Debug\netcoreapp2.2\Service.dll
+C:\Users\annac\OneDrive\Documentos\DDD\Service\obj\Debug\netcoreapp2.2\Service.pdb
+C:\Users\annac\Downloads\DDD\Service\bin\Debug\netcoreapp2.2\Service.deps.json
+C:\Users\annac\Downloads\DDD\Service\bin\Debug\netcoreapp2.2\Service.dll
+C:\Users\annac\Downloads\DDD\Service\bin\Debug\netcoreapp2.2\Service.pdb
+C:\Users\annac\Downloads\DDD\Service\bin\Debug\netcoreapp2.2\Domain.dll
+C:\Users\annac\Downloads\DDD\Service\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\Users\annac\Downloads\DDD\Service\obj\Debug\netcoreapp2.2\Service.csprojAssemblyReference.cache
+C:\Users\annac\Downloads\DDD\Service\obj\Debug\netcoreapp2.2\Service.AssemblyInfoInputs.cache
+C:\Users\annac\Downloads\DDD\Service\obj\Debug\netcoreapp2.2\Service.AssemblyInfo.cs
+C:\Users\annac\Downloads\DDD\Service\obj\Debug\netcoreapp2.2\Service.csproj.CopyComplete
+C:\Users\annac\Downloads\DDD\Service\obj\Debug\netcoreapp2.2\Service.dll
+C:\Users\annac\Downloads\DDD\Service\obj\Debug\netcoreapp2.2\Service.pdb
+C:\Users\Administrador\Pictures\DDD\Service\bin\Debug\netcoreapp2.2\Service.deps.json
+C:\Users\Administrador\Pictures\DDD\Service\bin\Debug\netcoreapp2.2\Service.dll
+C:\Users\Administrador\Pictures\DDD\Service\bin\Debug\netcoreapp2.2\Service.pdb
+C:\Users\Administrador\Pictures\DDD\Service\bin\Debug\netcoreapp2.2\Domain.dll
+C:\Users\Administrador\Pictures\DDD\Service\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Administrador\Pictures\DDD\Service\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\Users\Administrador\Pictures\DDD\Service\bin\Debug\netcoreapp2.2\Microsoft.AspNetCore.Identity.UI.xml
+C:\Users\Administrador\Pictures\DDD\Service\obj\Debug\netcoreapp2.2\Service.csprojAssemblyReference.cache
+C:\Users\Administrador\Pictures\DDD\Service\obj\Debug\netcoreapp2.2\Service.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Pictures\DDD\Service\obj\Debug\netcoreapp2.2\Service.AssemblyInfoInputs.cache
+C:\Users\Administrador\Pictures\DDD\Service\obj\Debug\netcoreapp2.2\Service.AssemblyInfo.cs
+C:\Users\Administrador\Pictures\DDD\Service\obj\Debug\netcoreapp2.2\Service.csproj.CopyComplete
+C:\Users\Administrador\Pictures\DDD\Service\obj\Debug\netcoreapp2.2\Service.dll
+C:\Users\Administrador\Pictures\DDD\Service\obj\Debug\netcoreapp2.2\Service.pdb
+C:\Users\Administrador\Documents\teste\DDD\Service\obj\Debug\netcoreapp2.2\Service.csprojAssemblyReference.cache
+C:\Users\Administrador\Documents\teste\DDD\Service\obj\Debug\netcoreapp2.2\Service.csproj.CoreCompileInputs.cache
+C:\Users\Administrador\Documents\teste\DDD\Service\obj\Debug\netcoreapp2.2\Service.AssemblyInfoInputs.cache
+C:\Users\Administrador\Documents\teste\DDD\Service\obj\Debug\netcoreapp2.2\Service.AssemblyInfo.cs
+C:\Users\Administrador\Documents\teste\DDD\Service\obj\Debug\netcoreapp2.2\Service.dll
+C:\Users\Administrador\Documents\teste\DDD\Service\obj\Debug\netcoreapp2.2\Service.pdb
+C:\Users\Administrador\Documents\teste\DDD\Service\bin\Debug\netcoreapp2.2\Service.deps.json
+C:\Users\Administrador\Documents\teste\DDD\Service\bin\Debug\netcoreapp2.2\Service.dll
+C:\Users\Administrador\Documents\teste\DDD\Service\bin\Debug\netcoreapp2.2\Service.pdb
+C:\Users\Administrador\Documents\teste\DDD\Service\bin\Debug\netcoreapp2.2\Domain.dll
+C:\Users\Administrador\Documents\teste\DDD\Service\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\Users\Administrador\Documents\teste\DDD\Service\obj\Debug\netcoreapp2.2\Service.csproj.CopyComplete
+C:\Users\annac\OneDrive\Imagens\Imagens da Câmera\DDD\Service\bin\Debug\netcoreapp2.2\Service.deps.json
+C:\Users\annac\OneDrive\Imagens\Imagens da Câmera\DDD\Service\bin\Debug\netcoreapp2.2\Service.dll
+C:\Users\annac\OneDrive\Imagens\Imagens da Câmera\DDD\Service\bin\Debug\netcoreapp2.2\Service.pdb
+C:\Users\annac\OneDrive\Imagens\Imagens da Câmera\DDD\Service\bin\Debug\netcoreapp2.2\Domain.dll
+C:\Users\annac\OneDrive\Imagens\Imagens da Câmera\DDD\Service\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\Users\annac\OneDrive\Imagens\Imagens da Câmera\DDD\Service\obj\Debug\netcoreapp2.2\Service.csprojAssemblyReference.cache
+C:\Users\annac\OneDrive\Imagens\Imagens da Câmera\DDD\Service\obj\Debug\netcoreapp2.2\Service.AssemblyInfoInputs.cache
+C:\Users\annac\OneDrive\Imagens\Imagens da Câmera\DDD\Service\obj\Debug\netcoreapp2.2\Service.AssemblyInfo.cs
+C:\Users\annac\OneDrive\Imagens\Imagens da Câmera\DDD\Service\obj\Debug\netcoreapp2.2\Service.csproj.CopyComplete
+C:\Users\annac\OneDrive\Imagens\Imagens da Câmera\DDD\Service\obj\Debug\netcoreapp2.2\Service.dll
+C:\Users\annac\OneDrive\Imagens\Imagens da Câmera\DDD\Service\obj\Debug\netcoreapp2.2\Service.pdb
+C:\Users\annac\OneDrive\Imagens\DDD\Service\bin\Debug\netcoreapp2.2\Service.deps.json
+C:\Users\annac\OneDrive\Imagens\DDD\Service\bin\Debug\netcoreapp2.2\Service.dll
+C:\Users\annac\OneDrive\Imagens\DDD\Service\bin\Debug\netcoreapp2.2\Service.pdb
+C:\Users\annac\OneDrive\Imagens\DDD\Service\bin\Debug\netcoreapp2.2\Domain.dll
+C:\Users\annac\OneDrive\Imagens\DDD\Service\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\Users\annac\OneDrive\Imagens\DDD\Service\obj\Debug\netcoreapp2.2\Service.csprojAssemblyReference.cache
+C:\Users\annac\OneDrive\Imagens\DDD\Service\obj\Debug\netcoreapp2.2\Service.AssemblyInfoInputs.cache
+C:\Users\annac\OneDrive\Imagens\DDD\Service\obj\Debug\netcoreapp2.2\Service.AssemblyInfo.cs
+C:\Users\annac\OneDrive\Imagens\DDD\Service\obj\Debug\netcoreapp2.2\Service.csproj.CopyComplete
+C:\Users\annac\OneDrive\Imagens\DDD\Service\obj\Debug\netcoreapp2.2\Service.dll
+C:\Users\annac\OneDrive\Imagens\DDD\Service\obj\Debug\netcoreapp2.2\Service.pdb
+C:\Lab\TCC\TCC\Service\bin\Debug\netcoreapp2.2\Service.deps.json
+C:\Lab\TCC\TCC\Service\bin\Debug\netcoreapp2.2\Service.dll
+C:\Lab\TCC\TCC\Service\bin\Debug\netcoreapp2.2\Service.pdb
+C:\Lab\TCC\TCC\Service\bin\Debug\netcoreapp2.2\Domain.dll
+C:\Lab\TCC\TCC\Service\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\Lab\TCC\TCC\Service\obj\Debug\netcoreapp2.2\Service.csprojAssemblyReference.cache
+C:\Lab\TCC\TCC\Service\obj\Debug\netcoreapp2.2\Service.AssemblyInfoInputs.cache
+C:\Lab\TCC\TCC\Service\obj\Debug\netcoreapp2.2\Service.AssemblyInfo.cs
+C:\Lab\TCC\TCC\Service\obj\Debug\netcoreapp2.2\Service.csproj.CopyComplete
+C:\Lab\TCC\TCC\Service\obj\Debug\netcoreapp2.2\Service.dll
+C:\Lab\TCC\TCC\Service\obj\Debug\netcoreapp2.2\Service.pdb
+C:\Lab\Nova pasta\TCC\Service\bin\Debug\netcoreapp2.2\Service.deps.json
+C:\Lab\Nova pasta\TCC\Service\bin\Debug\netcoreapp2.2\Service.dll
+C:\Lab\Nova pasta\TCC\Service\bin\Debug\netcoreapp2.2\Service.pdb
+C:\Lab\Nova pasta\TCC\Service\bin\Debug\netcoreapp2.2\CrossCutting.dll
+C:\Lab\Nova pasta\TCC\Service\bin\Debug\netcoreapp2.2\Domain.dll
+C:\Lab\Nova pasta\TCC\Service\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\Lab\Nova pasta\TCC\Service\bin\Debug\netcoreapp2.2\CrossCutting.pdb
+C:\Lab\Nova pasta\TCC\Service\obj\Debug\netcoreapp2.2\Service.csprojAssemblyReference.cache
+C:\Lab\Nova pasta\TCC\Service\obj\Debug\netcoreapp2.2\Service.AssemblyInfoInputs.cache
+C:\Lab\Nova pasta\TCC\Service\obj\Debug\netcoreapp2.2\Service.AssemblyInfo.cs
+C:\Lab\Nova pasta\TCC\Service\obj\Debug\netcoreapp2.2\Service.csproj.CopyComplete
+C:\Lab\Nova pasta\TCC\Service\obj\Debug\netcoreapp2.2\Service.dll
+C:\Lab\Nova pasta\TCC\Service\obj\Debug\netcoreapp2.2\Service.pdb
+C:\Users\apchaves\Desktop\Nova pasta\TCC\Service\bin\Debug\netcoreapp2.2\Service.deps.json
+C:\Users\apchaves\Desktop\Nova pasta\TCC\Service\bin\Debug\netcoreapp2.2\Service.dll
+C:\Users\apchaves\Desktop\Nova pasta\TCC\Service\bin\Debug\netcoreapp2.2\Service.pdb
+C:\Users\apchaves\Desktop\Nova pasta\TCC\Service\bin\Debug\netcoreapp2.2\CrossCutting.dll
+C:\Users\apchaves\Desktop\Nova pasta\TCC\Service\bin\Debug\netcoreapp2.2\Domain.dll
+C:\Users\apchaves\Desktop\Nova pasta\TCC\Service\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\Users\apchaves\Desktop\Nova pasta\TCC\Service\bin\Debug\netcoreapp2.2\CrossCutting.pdb
+C:\Users\apchaves\Desktop\Nova pasta\TCC\Service\obj\Debug\netcoreapp2.2\Service.csprojAssemblyReference.cache
+C:\Users\apchaves\Desktop\Nova pasta\TCC\Service\obj\Debug\netcoreapp2.2\Service.AssemblyInfoInputs.cache
+C:\Users\apchaves\Desktop\Nova pasta\TCC\Service\obj\Debug\netcoreapp2.2\Service.AssemblyInfo.cs
+C:\Users\apchaves\Desktop\Nova pasta\TCC\Service\obj\Debug\netcoreapp2.2\Service.csproj.CopyComplete
+C:\Users\apchaves\Desktop\Nova pasta\TCC\Service\obj\Debug\netcoreapp2.2\Service.dll
+C:\Users\apchaves\Desktop\Nova pasta\TCC\Service\obj\Debug\netcoreapp2.2\Service.pdb
+C:\Users\apchaves\Documents\TCC\Service\bin\Debug\netcoreapp2.2\Service.deps.json
+C:\Users\apchaves\Documents\TCC\Service\bin\Debug\netcoreapp2.2\Service.dll
+C:\Users\apchaves\Documents\TCC\Service\bin\Debug\netcoreapp2.2\Service.pdb
+C:\Users\apchaves\Documents\TCC\Service\bin\Debug\netcoreapp2.2\CrossCutting.dll
+C:\Users\apchaves\Documents\TCC\Service\bin\Debug\netcoreapp2.2\Domain.dll
+C:\Users\apchaves\Documents\TCC\Service\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\Users\apchaves\Documents\TCC\Service\bin\Debug\netcoreapp2.2\CrossCutting.pdb
+C:\Users\apchaves\Documents\TCC\Service\obj\Debug\netcoreapp2.2\Service.csprojAssemblyReference.cache
+C:\Users\apchaves\Documents\TCC\Service\obj\Debug\netcoreapp2.2\Service.AssemblyInfoInputs.cache
+C:\Users\apchaves\Documents\TCC\Service\obj\Debug\netcoreapp2.2\Service.AssemblyInfo.cs
+C:\Users\apchaves\Documents\TCC\Service\obj\Debug\netcoreapp2.2\Service.csproj.CopyComplete
+C:\Users\apchaves\Documents\TCC\Service\obj\Debug\netcoreapp2.2\Service.dll
+C:\Users\apchaves\Documents\TCC\Service\obj\Debug\netcoreapp2.2\Service.pdb
+C:\Users\apchaves\Documents\TCC\TCC\Service\bin\Debug\netcoreapp2.2\Service.deps.json
+C:\Users\apchaves\Documents\TCC\TCC\Service\bin\Debug\netcoreapp2.2\Service.dll
+C:\Users\apchaves\Documents\TCC\TCC\Service\bin\Debug\netcoreapp2.2\Service.pdb
+C:\Users\apchaves\Documents\TCC\TCC\Service\bin\Debug\netcoreapp2.2\Domain.dll
+C:\Users\apchaves\Documents\TCC\TCC\Service\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\Users\apchaves\Documents\TCC\TCC\Service\obj\Debug\netcoreapp2.2\Service.csprojAssemblyReference.cache
+C:\Users\apchaves\Documents\TCC\TCC\Service\obj\Debug\netcoreapp2.2\Service.AssemblyInfoInputs.cache
+C:\Users\apchaves\Documents\TCC\TCC\Service\obj\Debug\netcoreapp2.2\Service.AssemblyInfo.cs
+C:\Users\apchaves\Documents\TCC\TCC\Service\obj\Debug\netcoreapp2.2\Service.csproj.CopyComplete
+C:\Users\apchaves\Documents\TCC\TCC\Service\obj\Debug\netcoreapp2.2\Service.dll
+C:\Users\apchaves\Documents\TCC\TCC\Service\obj\Debug\netcoreapp2.2\Service.pdb
+C:\LAB\TCC\Service\bin\Debug\netcoreapp2.2\Service.deps.json
+C:\LAB\TCC\Service\bin\Debug\netcoreapp2.2\Service.dll
+C:\LAB\TCC\Service\bin\Debug\netcoreapp2.2\Service.pdb
+C:\LAB\TCC\Service\bin\Debug\netcoreapp2.2\Domain.dll
+C:\LAB\TCC\Service\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\LAB\TCC\Service\obj\Debug\netcoreapp2.2\Service.csprojAssemblyReference.cache
+C:\LAB\TCC\Service\obj\Debug\netcoreapp2.2\Service.AssemblyInfoInputs.cache
+C:\LAB\TCC\Service\obj\Debug\netcoreapp2.2\Service.AssemblyInfo.cs
+C:\LAB\TCC\Service\obj\Debug\netcoreapp2.2\Service.csproj.CopyComplete
+C:\LAB\TCC\Service\obj\Debug\netcoreapp2.2\Service.dll
+C:\LAB\TCC\Service\obj\Debug\netcoreapp2.2\Service.pdb
+C:\Users\apchaves\Documents\IPV4Learning\Service\bin\Debug\netcoreapp2.2\Service.deps.json
+C:\Users\apchaves\Documents\IPV4Learning\Service\bin\Debug\netcoreapp2.2\Service.dll
+C:\Users\apchaves\Documents\IPV4Learning\Service\bin\Debug\netcoreapp2.2\Service.pdb
+C:\Users\apchaves\Documents\IPV4Learning\Service\bin\Debug\netcoreapp2.2\Domain.dll
+C:\Users\apchaves\Documents\IPV4Learning\Service\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\Users\apchaves\Documents\IPV4Learning\Service\obj\Debug\netcoreapp2.2\Service.csprojAssemblyReference.cache
+C:\Users\apchaves\Documents\IPV4Learning\Service\obj\Debug\netcoreapp2.2\Service.AssemblyInfoInputs.cache
+C:\Users\apchaves\Documents\IPV4Learning\Service\obj\Debug\netcoreapp2.2\Service.AssemblyInfo.cs
+C:\Users\apchaves\Documents\IPV4Learning\Service\obj\Debug\netcoreapp2.2\Service.csproj.CopyComplete
+C:\Users\apchaves\Documents\IPV4Learning\Service\obj\Debug\netcoreapp2.2\Service.dll
+C:\Users\apchaves\Documents\IPV4Learning\Service\obj\Debug\netcoreapp2.2\Service.pdb
+C:\Users\annac\OneDrive\Área de Trabalho\IPV4Learning\Service\bin\Debug\netcoreapp2.2\Service.deps.json
+C:\Users\annac\OneDrive\Área de Trabalho\IPV4Learning\Service\bin\Debug\netcoreapp2.2\Service.dll
+C:\Users\annac\OneDrive\Área de Trabalho\IPV4Learning\Service\bin\Debug\netcoreapp2.2\Service.pdb
+C:\Users\annac\OneDrive\Área de Trabalho\IPV4Learning\Service\bin\Debug\netcoreapp2.2\Domain.dll
+C:\Users\annac\OneDrive\Área de Trabalho\IPV4Learning\Service\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\Users\annac\OneDrive\Área de Trabalho\IPV4Learning\Service\obj\Debug\netcoreapp2.2\Service.csprojAssemblyReference.cache
+C:\Users\annac\OneDrive\Área de Trabalho\IPV4Learning\Service\obj\Debug\netcoreapp2.2\Service.AssemblyInfoInputs.cache
+C:\Users\annac\OneDrive\Área de Trabalho\IPV4Learning\Service\obj\Debug\netcoreapp2.2\Service.AssemblyInfo.cs
+C:\Users\annac\OneDrive\Área de Trabalho\IPV4Learning\Service\obj\Debug\netcoreapp2.2\Service.csproj.CopyComplete
+C:\Users\annac\OneDrive\Área de Trabalho\IPV4Learning\Service\obj\Debug\netcoreapp2.2\Service.dll
+C:\Users\annac\OneDrive\Área de Trabalho\IPV4Learning\Service\obj\Debug\netcoreapp2.2\Service.pdb
+C:\LAB\IPV4Learning\Service\bin\Debug\netcoreapp2.2\Service.deps.json
+C:\LAB\IPV4Learning\Service\bin\Debug\netcoreapp2.2\Service.dll
+C:\LAB\IPV4Learning\Service\bin\Debug\netcoreapp2.2\Service.pdb
+C:\LAB\IPV4Learning\Service\bin\Debug\netcoreapp2.2\Domain.dll
+C:\LAB\IPV4Learning\Service\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\LAB\IPV4Learning\Service\obj\Debug\netcoreapp2.2\Service.csprojAssemblyReference.cache
+C:\LAB\IPV4Learning\Service\obj\Debug\netcoreapp2.2\Service.AssemblyInfoInputs.cache
+C:\LAB\IPV4Learning\Service\obj\Debug\netcoreapp2.2\Service.AssemblyInfo.cs
+C:\LAB\IPV4Learning\Service\obj\Debug\netcoreapp2.2\Service.csproj.CopyComplete
+C:\LAB\IPV4Learning\Service\obj\Debug\netcoreapp2.2\Service.dll
+C:\LAB\IPV4Learning\Service\obj\Debug\netcoreapp2.2\Service.pdb
+D:\IPV4Learning\Service\bin\Debug\netcoreapp2.2\Service.deps.json
+D:\IPV4Learning\Service\bin\Debug\netcoreapp2.2\Service.dll
+D:\IPV4Learning\Service\bin\Debug\netcoreapp2.2\Service.pdb
+D:\IPV4Learning\Service\bin\Debug\netcoreapp2.2\Domain.dll
+D:\IPV4Learning\Service\bin\Debug\netcoreapp2.2\Domain.pdb
+D:\IPV4Learning\Service\obj\Debug\netcoreapp2.2\Service.csprojAssemblyReference.cache
+D:\IPV4Learning\Service\obj\Debug\netcoreapp2.2\Service.AssemblyInfoInputs.cache
+D:\IPV4Learning\Service\obj\Debug\netcoreapp2.2\Service.AssemblyInfo.cs
+D:\IPV4Learning\Service\obj\Debug\netcoreapp2.2\Service.csproj.CopyComplete
+D:\IPV4Learning\Service\obj\Debug\netcoreapp2.2\Service.dll
+D:\IPV4Learning\Service\obj\Debug\netcoreapp2.2\Service.pdb
+C:\Users\anabr\Documents\tcc\IPV4Learning\Service\bin\Debug\netcoreapp2.2\Service.deps.json
+C:\Users\anabr\Documents\tcc\IPV4Learning\Service\bin\Debug\netcoreapp2.2\Service.dll
+C:\Users\anabr\Documents\tcc\IPV4Learning\Service\bin\Debug\netcoreapp2.2\Service.pdb
+C:\Users\anabr\Documents\tcc\IPV4Learning\Service\bin\Debug\netcoreapp2.2\Domain.dll
+C:\Users\anabr\Documents\tcc\IPV4Learning\Service\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\Users\anabr\Documents\tcc\IPV4Learning\Service\obj\Debug\netcoreapp2.2\Service.csprojAssemblyReference.cache
+C:\Users\anabr\Documents\tcc\IPV4Learning\Service\obj\Debug\netcoreapp2.2\Service.csproj.CoreCompileInputs.cache
+C:\Users\anabr\Documents\tcc\IPV4Learning\Service\obj\Debug\netcoreapp2.2\Service.AssemblyInfoInputs.cache
+C:\Users\anabr\Documents\tcc\IPV4Learning\Service\obj\Debug\netcoreapp2.2\Service.AssemblyInfo.cs
+C:\Users\anabr\Documents\tcc\IPV4Learning\Service\obj\Debug\netcoreapp2.2\Service.csproj.CopyComplete
+C:\Users\anabr\Documents\tcc\IPV4Learning\Service\obj\Debug\netcoreapp2.2\Service.dll
+C:\Users\anabr\Documents\tcc\IPV4Learning\Service\obj\Debug\netcoreapp2.2\Service.pdb

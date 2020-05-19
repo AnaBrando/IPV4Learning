@@ -1,18 +1,97 @@
-﻿@{
+﻿@model IEnumerable<Domain.Model.IP>
+@{
     ViewData["Title"] = "Home Page";
 }
-<!DOCTYPE html>
 
-<html>
-<head>
-    <meta name="viewport" content="width=device-width" />
-    <title>Page</title>
-</head>
-<body>
-    <h1>Stream to me</h1>
-    <ul id="StreamToMe"></ul>
-    <script src="~/js/socket.js"></script>
-    <script src="~/js/stream.js"></script>
+@{
+    var ip = @Model;
+}
+@*<h1>Stream to me</h1>
+    <ul id="StreamToMe"></ul>*@
+<div class="container-fluid" style="background-color:rgba(0,0,0,0.5); height:500px;">
+    <div class="row">
+        <div class="col-md-3 col-sm-3" style="background-color:rgb(128, 128, 128); height:80px;">
+            <br />
+            @foreach (var item in Model)
+            {
+                <p style="font-size:1.3em; color:darkred">
+                    @Html.DisplayFor(m => m.FirstOrDefault().ip)@Html.DisplayFor(m => m.FirstOrDefault().CDIR)
+                </p>
+            }
+        </div>
+        <div class="col-md-6 col-sm-3">
+            @{
+                <p hidden id="rangers">@Html.Raw(Json.Serialize(Model.Select(x => x.networkBinary)))</p>
+            }
+        </div>
+        <div class="col-md-3 col-sm-3">
+            <label>
+                <img src="~/img/broadcast.png" width="50"><input type="text" name="broadcast" disabled />
+            </label>
+            <br />
+            <label>
+                <img src="~/img/tcc.png" width="50" /><input type="text" name="host" disabled />
+            </label>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-3 col-sm-3" style="background-color:rgb(128, 128, 128);">
 
-</body>
-</html>
+        </div>
+        <div class="col-md-6 col-sm-6" style="background-color:antiquewhite;text-align:center;" id="concluido">
+            @foreach (var item in Model)
+            {
+                <p style="font-size:1.3em;letter-spacing:1.5px;">
+                    @Html.DisplayFor(m => m.FirstOrDefault().ipBinary)
+                </p>
+
+                <p style="font-size:1.3em;letter-spacing:1.5px;">
+                    @Html.DisplayFor(m => m.FirstOrDefault().maskBinary)
+                </p>
+            }
+            <label>
+                Descubra o Endereço da Rede:
+            </label><br />
+            <form action="#" name="addressrede" >
+                <input type="text" class="binary" style="width:100px"
+                       name="rede"
+                       oninput="this.value=this.value.replace(/[^01]/g,'');"
+                       maxlength="8" id="octeto1">
+                <input type="text" class="binary"
+                       style="width:100px"
+                       name="rede"
+                       oninput="this.value=this.value.replace(/[^01]/g,'');"
+                       maxlength="8" id="octeto2">
+                <input type="text" class="binary"
+                       style="width:100px"
+                       name="rede"
+                       oninput="this.value=this.value.replace(/[^01]/g,'');"
+                       maxlength="8" id="octeto3">
+                <input type="text" class="binary"
+                       style="width:100px;"
+                       name="rede"
+                       oninput="this.value=this.value.replace(/[^01]/g,'');"
+                       maxlength="8" id="octeto4">
+                <br />
+                <button type="button" class="btn btn-success" id="verificar">Enviar</button>
+            </form>
+        </div>
+        <div class="col-md-3 col-sm-3" style="background-color:rgb(128, 128, 128);">
+            <img src="~/img/tabelaverdade.png" width="200" style="margin:25px" />
+        </div>
+    </div>
+</div>
+@section Scripts{
+    @*<script src="~/js/game/access.js"></script>*@
+    <script src="~/js/game/Game.js"></script>
+    <script src="~/js/game/GamePlayValidation.js"></script>
+    <script src="~/js/game/Octeto.js"></script>
+    @*<script type="module" src="~/js/game/Resposta.js"></script>*@
+}
+
+
+
+@*<script src="~/js/socket.js"></script>
+    <script src="~/js/stream.js"></script>*@
+
+

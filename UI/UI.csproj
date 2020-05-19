@@ -5,6 +5,7 @@
     <UserSecretsId>aspnet-UI-EE5D37D0-635B-40CD-9380-8DA6C2FA2182</UserSecretsId>
     <AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
     <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+    <DockerComposeProjectPath>..\docker-compose.dcproj</DockerComposeProjectPath>
   </PropertyGroup>
 
   <ItemGroup>

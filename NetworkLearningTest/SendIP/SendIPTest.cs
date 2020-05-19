@@ -27,7 +27,7 @@ namespace TestNetWork.SendIP
 
         public List<IP> MockListaIp()
         {
-            var json = File.ReadAllText(@"C:\LAB\IPV4Learning\Infra\Mock\Ips.json", Encoding.GetEncoding("iso-8859-1"));
+            var json = File.ReadAllText(@"C:\Users\anabr\Documents\IPV4Learning\Infra\Mock\Ips.json", Encoding.GetEncoding("iso-8859-1"));
 
             var ips = JsonConvert.DeserializeObject<List<IP>>(json);
 

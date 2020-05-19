@@ -6,23 +6,23 @@
     "ipBinary":   "11101100.01100000.00010010.10110011",
     "maskBinary": "11111111.11111111.11111111.11000000",
     "networkBinary": "11101100.01100000.00010010.10000000"
-  },
-  {
-    "id": 1,
-    "ip": "187.86.226.52",
-    "CDIR": "",
-    "ipBinary": "",
-    "maskBinary": "",
-    "networkBinary": ""
-  },
-  {
-    "id": 2,
-    "ip": "187.86.226.52",
-    "CDIR": "",
-    "ipBinary": "",
-    "maskBinary": "",
-    "networkBinary": ""
   }
+  //{
+  //  "id": 1,
+  //  "ip": "187.86.226.52",
+  //  "CDIR": "",
+  //  "ipBinary": "",
+  //  "maskBinary": "",
+  //  "networkBinary": ""
+  //},
+  //{
+  //  "id": 2,
+  //  "ip": "187.86.226.52",
+  //  "CDIR": "",
+  //  "ipBinary": "",
+  //  "maskBinary": "",
+  //  "networkBinary": ""
+  //}
 ]
 
 /*

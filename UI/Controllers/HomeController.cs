@@ -1,12 +1,8 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Diagnostics;
-using System.Linq;
-using System.Threading.Tasks;
+﻿using System.Diagnostics;
 using Domain.Interfaces.Application;
+using Domain.Interfaces.IPSender;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
-using Service.Usuario;
 using UI.Models;
 
 namespace UI.Controllers
@@ -14,18 +10,19 @@ namespace UI.Controllers
     public class HomeController : Controller
     {
         public IUsuarioService _service;
-
-        public HomeController(IUsuarioService service)
+        public IIPService _ipService;
+        public HomeController(IUsuarioService service,IIPService iPService)
         {
             _service = service;
+            _ipService = iPService;
         }
 
         [Authorize]
         public IActionResult Index()
         {
-            return View();
+            var ips = _ipService.GetAll();
+            return View(ips);
         }
-
         
         public IActionResult Privacy()
         {

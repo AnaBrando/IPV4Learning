@@ -1,5 +1,6 @@
 ﻿using CrossCutting.Model;
 using Domain.Interfaces.Application;
+using Domain.Interfaces.IPSender;
 using Infra.Repository.Helper;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
@@ -21,9 +22,12 @@ namespace UI.Controllers
         private readonly RoleManager<IdentityRole> _roleManager;
         private IEnumerable<ApplicationUser> _alunos;
         public IProfessorRepository _repProfessor;
+        public IIPService _ipService;
         public ProfessorController(IUsuarioService service, UserManager<ApplicationUser> userManager,
             ILogger<ProfessorController> logger, RoleManager<IdentityRole> roleManager,
-            SignInManager<ApplicationUser> signInManager, IProfessorRepository repo)
+            SignInManager<ApplicationUser> signInManager,
+            IProfessorRepository repo,
+            IIPService _ip)
         {
             _service = service;
             _userManager = userManager;
@@ -32,6 +36,7 @@ namespace UI.Controllers
             _signInManager = signInManager;
             _alunos = new List<ApplicationUser>();
             _repProfessor = repo;
+            _ipService = _ip;
         }
         public IActionResult Index()
         {
@@ -54,7 +59,7 @@ namespace UI.Controllers
             if (ModelState.IsValid)
             {
                
-                var user = await _signInManager.UserManager.FindByNameAsync(loginModel.UserName);
+                var user = await _signInManager.UserManager.FindByEmailAsync(loginModel.UserName);
                 var roles = await _signInManager.UserManager.GetRolesAsync(user);
                 
                 var EhProfessor = roles.Where(x => x.Equals("Professor")).Any();

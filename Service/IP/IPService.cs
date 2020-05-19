@@ -33,6 +33,11 @@ namespace Service.IP
             }
             return null;
         }
+
+        public IEnumerable<Domain.Model.IP> GetAll()
+        {
+            return _repo.Query().ToList();
+        }
     }
 }
 

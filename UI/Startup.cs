@@ -16,7 +16,7 @@ using CrossCutting.Model;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Identity.UI;
 using Infra.Repository.Helper;
-
+using System;
 
 namespace UI
 {
@@ -35,6 +35,10 @@ namespace UI
             //registrando os serviços
             Injector.RegistrarServicos(services);
 
+            //localhost
+            //var connection = Configuration.GetConnectionString("DefaultConnection");
+            //var b = Environment.GetEnvironmentVariables();
+            //var c = Environment.GetEnvironmentVariable("https://+:443;http://+:80");
 
             //Setar o contexto da aplicacao
             services.AddDbContext<UserDbContext>(options =>

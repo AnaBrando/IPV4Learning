@@ -1,0 +1,17 @@
+C:\Users\anabr\Documents\IPV4Learning\CrossCutting\bin\Release\netcoreapp2.2\CrossCutting.deps.json
+C:\Users\anabr\Documents\IPV4Learning\CrossCutting\bin\Release\netcoreapp2.2\CrossCutting.runtimeconfig.json
+C:\Users\anabr\Documents\IPV4Learning\CrossCutting\bin\Release\netcoreapp2.2\CrossCutting.runtimeconfig.dev.json
+C:\Users\anabr\Documents\IPV4Learning\CrossCutting\bin\Release\netcoreapp2.2\CrossCutting.dll
+C:\Users\anabr\Documents\IPV4Learning\CrossCutting\bin\Release\netcoreapp2.2\CrossCutting.pdb
+C:\Users\anabr\Documents\IPV4Learning\CrossCutting\bin\Release\netcoreapp2.2\Domain.dll
+C:\Users\anabr\Documents\IPV4Learning\CrossCutting\bin\Release\netcoreapp2.2\Service.dll
+C:\Users\anabr\Documents\IPV4Learning\CrossCutting\bin\Release\netcoreapp2.2\Service.pdb
+C:\Users\anabr\Documents\IPV4Learning\CrossCutting\bin\Release\netcoreapp2.2\Domain.pdb
+C:\Users\anabr\Documents\IPV4Learning\CrossCutting\obj\Release\netcoreapp2.2\CrossCutting.csprojAssemblyReference.cache
+C:\Users\anabr\Documents\IPV4Learning\CrossCutting\obj\Release\netcoreapp2.2\CrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\anabr\Documents\IPV4Learning\CrossCutting\obj\Release\netcoreapp2.2\CrossCutting.AssemblyInfoInputs.cache
+C:\Users\anabr\Documents\IPV4Learning\CrossCutting\obj\Release\netcoreapp2.2\CrossCutting.AssemblyInfo.cs
+C:\Users\anabr\Documents\IPV4Learning\CrossCutting\obj\Release\netcoreapp2.2\CrossCutting.csproj.CopyComplete
+C:\Users\anabr\Documents\IPV4Learning\CrossCutting\obj\Release\netcoreapp2.2\CrossCutting.dll
+C:\Users\anabr\Documents\IPV4Learning\CrossCutting\obj\Release\netcoreapp2.2\CrossCutting.pdb
+C:\Users\anabr\Documents\IPV4Learning\CrossCutting\obj\Release\netcoreapp2.2\CrossCutting.genruntimeconfig.cache

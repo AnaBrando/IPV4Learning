@@ -76,34 +76,38 @@ namespace UI.Areas.Identity.Pages.Account
            
             if (ModelState.IsValid)
             {
-                // This doesn't count login failures towards account lockout
-                // To enable password failures to trigger account lockout, set lockoutOnFailure: true
-                var result = await _signInManager.PasswordSignInAsync(user,Input.Password,false, false);
-                if (result.Succeeded)
+                
+                if (user.ProfessorId != null && user.RoleName.Equals("Aluno"))
                 {
-                    _logger.LogInformation("User logged in.");
-                    return LocalRedirect(returnUrl);
+                    var result = await _signInManager.PasswordSignInAsync(user, Input.Password, false, false);
+                    if(result.Succeeded)
+                    {
+                        _logger.LogInformation("User logged in.");
+                        return LocalRedirect(returnUrl);
+                    }
+                    if (result.IsLockedOut)
+                    {
+                        ModelState.AddModelError(string.Empty, "Usuario bloqueado");
+                        return Page();
+                    }
+                    if (result.IsNotAllowed)
+                    {
+                        ModelState.AddModelError(string.Empty, "Usuario não é permitido");
+                        return Page();
+                    }
+                    if (result.RequiresTwoFactor)
+                    {
+                        ModelState.AddModelError(string.Empty, "Usuario requere duas etapas");
+                        return Page();
+                    }
+                    else
+                    {
+                        ModelState.AddModelError(string.Empty, "Senha Inválida");
+                        return Page();
+                    }
                 }
-                if (result.IsLockedOut)
-                {
-                    ModelState.AddModelError(string.Empty, "Usuario bloqueado");
-                    return Page();
-                }
-                if (result.IsNotAllowed)
-                {
-                    ModelState.AddModelError(string.Empty, "Usuario não é permitido");
-                    return Page();
-                }
-                if (result.RequiresTwoFactor)
-                {
-                    ModelState.AddModelError(string.Empty, "Usuario requere duas etapas");
-                    return Page();
-                }
-                else
-                {             
-                    ModelState.AddModelError(string.Empty, "Senha Inválida");
-                    return Page();
-                }
+                ModelState.AddModelError(string.Empty, "Usuário é professor");
+                return Page();
             }
 
             // If we got this far, something failed, redisplay form

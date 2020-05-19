@@ -1,0 +1,20 @@
+{
+  "name": "ipv4",
+  "version": "1.0.0",
+  "description": "tcc",
+  "main": "access.js",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "AnaBrando"
+  },
+  "author": "Ana Paula Chaves",
+  "license": "ISC"
+}

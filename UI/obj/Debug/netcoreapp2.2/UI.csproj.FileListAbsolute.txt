@@ -1108,6 +1108,7 @@ C:\Users\anabr\Documents\tcc\IPV4Learning\UI\obj\Debug\netcoreapp2.2\UI.genrunti
 C:\Users\anabr\Documents\IPV4Learning\UI\bin\Debug\netcoreapp2.2\appsettings.Development.json
 C:\Users\anabr\Documents\IPV4Learning\UI\bin\Debug\netcoreapp2.2\appsettings.json
 C:\Users\anabr\Documents\IPV4Learning\UI\bin\Debug\netcoreapp2.2\package-lock.json
+C:\Users\anabr\Documents\IPV4Learning\UI\bin\Debug\netcoreapp2.2\package.json
 C:\Users\anabr\Documents\IPV4Learning\UI\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
 C:\Users\anabr\Documents\IPV4Learning\UI\bin\Debug\netcoreapp2.2\UI.deps.json
 C:\Users\anabr\Documents\IPV4Learning\UI\bin\Debug\netcoreapp2.2\UI.runtimeconfig.json
@@ -1188,4 +1189,3 @@ C:\Users\anabr\Documents\IPV4Learning\UI\obj\Debug\netcoreapp2.2\UI.csproj.CopyC
 C:\Users\anabr\Documents\IPV4Learning\UI\obj\Debug\netcoreapp2.2\UI.dll
 C:\Users\anabr\Documents\IPV4Learning\UI\obj\Debug\netcoreapp2.2\UI.pdb
 C:\Users\anabr\Documents\IPV4Learning\UI\obj\Debug\netcoreapp2.2\UI.genruntimeconfig.cache
-C:\Users\anabr\Documents\IPV4Learning\UI\bin\Debug\netcoreapp2.2\package.json

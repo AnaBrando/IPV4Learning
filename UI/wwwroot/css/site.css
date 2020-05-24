@@ -82,8 +82,55 @@ body {
     }
 }
 .concluido > p {
-    animation: concluido ease-in 2s forwards;
-    -webkit-animation: concluido ease-in 2s forwards;
+    animation: concluido ease-in 1s forwards;
+    -webkit-animation: concluido ease-in 1s forwards;
     -webkit-animation-fill-mode: forwards;
   
+}
+@keyframes redeDescoberta {
+    from {
+        opacity: 100;
+    }
+
+    to {
+        opacity: 0;
+    }
+}
+@keyframes mostraRede {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 100;
+    }
+}
+.redeDescoberta {
+    animation: redeDescoberta ease-in 2s forwards;
+    -webkit-animation: concluido ease-in 2s forwards;
+    -webkit-animation-fill-mode: forwards;
+ 
+}
+
+.sucesso {
+    font-size: 1.5em;
+    animation: redeDescoberta ease-in 2s forwards;
+    animation-delay: 2s;
+}
+.decimal {
+    -webkit-animation: mostraRede ease-in 2s forwards;
+    -webkit-animation-fill-mode: forwards;
+}
+@keyframes img {
+    from {
+        opacity: 100;
+    }
+
+    to {
+        opacity: 0;
+    }
+}
+.img {
+    animation: img 5s ease-in-out forwards;
+    
 }

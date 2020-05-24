@@ -8,37 +8,101 @@
 }
 @*<h1>Stream to me</h1>
     <ul id="StreamToMe"></ul>*@
-<div class="container-fluid" style="background-color:rgba(0,0,0,0.5); height:500px;">
+<div class="container-fluid" style="height:500px;">
     <div class="row">
-        <div class="col-md-3 col-sm-3" style="background-color:rgb(128, 128, 128); height:80px;">
+        <div class="col-md-3 col-sm-3" style="height:80px;">
             <br />
             @foreach (var item in Model)
             {
-                <p style="font-size:1.3em; color:darkred">
+                <p style="font-size:1.3em;">
                     @Html.DisplayFor(m => m.FirstOrDefault().ip)@Html.DisplayFor(m => m.FirstOrDefault().CDIR)
                 </p>
+
             }
         </div>
-        <div class="col-md-6 col-sm-3">
+        <div class="col-md-6 col-sm-3 align-center text-center">
             @{
+                <a href="#" onclick="mostraAjuda()" class="text-center collapse" data-toggle="collapse" data-target="#tabelaVerdade" style="color:darkblue" id="ajuda">Ajuda</a>
+                <img style="display:none" src="~/img/tabelaverdade.png" id="tabelaVerdade" />
                 <p hidden id="rangers">@Html.Raw(Json.Serialize(Model.Select(x => x.networkBinary)))</p>
             }
         </div>
+        
         <div class="col-md-3 col-sm-3">
             <label>
-                <img src="~/img/broadcast.png" width="50"><input type="text" name="broadcast" disabled />
+                <img src="~/img/broadcast.png" width="50"><input type="text" name="broadcast" disabled id="broadcast" />
             </label>
             <br />
             <label>
-                <img src="~/img/tcc.png" width="50" /><input type="text" name="host" disabled />
+                <img src="~/img/tcc.png" width="50" /><input type="text" name="host" disabled id="host" />
             </label>
         </div>
     </div>
+    <br /><br /><br />
     <div class="row">
-        <div class="col-md-3 col-sm-3" style="background-color:rgb(128, 128, 128);">
+        <div class="col-md-3 col-sm-3">
 
         </div>
-        <div class="col-md-6 col-sm-6" style="background-color:antiquewhite;text-align:center;" id="concluido">
+        <div class="col-md-6 col-sm-6" style="text-align:center;" id="concluido">
+            <div class="col-md-3 col-sm-3 decimal" style="display:none">
+                <table>
+                    <thead>
+                        <tr>
+                            <th>0</th>
+                            <th>2</th>
+                            <th>4</th>
+                            <th>8</th>
+                            <th>16</th>
+                            <th>32</th>
+                            <th>64</th>
+                            <th>128</th>
+                            <th></th>
+                            <th>0</th>
+                            <th>2</th>
+                            <th>4</th>
+                            <th>8</th>
+                            <th>16</th>
+                            <th>32</th>
+                            <th>64</th>
+                            <th>128</th>
+                            <th></th>
+                            <th>0</th>
+                            <th>2</th>
+                            <th>4</th>
+                            <th>8</th>
+                            <th>16</th>
+                            <th>32</th>
+                            <th>64</th>
+                            <th>128</th>
+                            <th></th>
+                            <th>0</th>
+                            <th>2</th>
+                            <th>4</th>
+                            <th>8</th>
+                            <th>16</th>
+                            <th>32</th>
+                            <th>64</th>
+                            <th>128</th>
+                        </tr>
+
+                    </thead>
+                    <tbody>
+                        <tr>
+                            @{
+                                var rede = Model.Select(x => x.networkBinary).FirstOrDefault();
+                                foreach (char item in rede)
+                                {
+                                    <td style="font-size:1.3em">
+                                        @Html.DisplayFor(x => item)
+                                    </td>
+                                }
+
+                            }
+                        </tr>
+
+                    </tbody>
+                </table>
+            </div>
             @foreach (var item in Model)
             {
                 <p style="font-size:1.3em;letter-spacing:1.5px;">
@@ -48,11 +112,15 @@
                 <p style="font-size:1.3em;letter-spacing:1.5px;">
                     @Html.DisplayFor(m => m.FirstOrDefault().maskBinary)
                 </p>
+                <label id="sucesso">
+                    <span class="text-center">Descubra o Endereço da Rede:</span>
+
+                </label><br />
             }
-            <label>
-                Descubra o Endereço da Rede:
-            </label><br />
-            <form action="#" name="addressrede" >
+            <div class="decimal" style="display:none">
+                
+            </div>
+            <form action="#" name="addressrede">
                 <input type="text" class="binary" style="width:100px"
                        name="rede"
                        oninput="this.value=this.value.replace(/[^01]/g,'');"
@@ -76,12 +144,17 @@
                 <button type="button" class="btn btn-success" id="verificar">Enviar</button>
             </form>
         </div>
-        <div class="col-md-3 col-sm-3" style="background-color:rgb(128, 128, 128);">
-            <img src="~/img/tabelaverdade.png" width="200" style="margin:25px" />
-        </div>
+       
     </div>
 </div>
+<script>
+    document.querySelector("#octeto1").value = '11101100';
+    document.querySelector("#octeto2").value = '01100000';
+    document.querySelector("#octeto3").value = '00010010';
+    document.querySelector("#octeto4").value = '10000000';
+</script>
 @section Scripts{
+    
     @*<script src="~/js/game/access.js"></script>*@
     <script src="~/js/game/Game.js"></script>
     <script src="~/js/game/GamePlayValidation.js"></script>

@@ -13652,11 +13652,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\anabr\\Documents\\IPV4Learning\\UI\\UI.csproj",
+      "projectUniqueName": "C:\\LAB\\gamePlay\\IPV4Learning\\UI\\UI.csproj",
       "projectName": "UI",
-      "projectPath": "C:\\Users\\anabr\\Documents\\IPV4Learning\\UI\\UI.csproj",
+      "projectPath": "C:\\LAB\\gamePlay\\IPV4Learning\\UI\\UI.csproj",
       "packagesPath": "C:\\Users\\anabr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\anabr\\Documents\\IPV4Learning\\UI\\obj\\",
+      "outputPath": "C:\\LAB\\gamePlay\\IPV4Learning\\UI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -13675,17 +13675,17 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\anabr\\Documents\\IPV4Learning\\CrossCutting\\CrossCutting.csproj": {
-              "projectPath": "C:\\Users\\anabr\\Documents\\IPV4Learning\\CrossCutting\\CrossCutting.csproj"
+            "C:\\LAB\\gamePlay\\IPV4Learning\\CrossCutting\\CrossCutting.csproj": {
+              "projectPath": "C:\\LAB\\gamePlay\\IPV4Learning\\CrossCutting\\CrossCutting.csproj"
             },
-            "C:\\Users\\anabr\\Documents\\IPV4Learning\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\anabr\\Documents\\IPV4Learning\\Domain\\Domain.csproj"
+            "C:\\LAB\\gamePlay\\IPV4Learning\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\LAB\\gamePlay\\IPV4Learning\\Domain\\Domain.csproj"
             },
-            "C:\\Users\\anabr\\Documents\\IPV4Learning\\Infra\\Infra.csproj": {
-              "projectPath": "C:\\Users\\anabr\\Documents\\IPV4Learning\\Infra\\Infra.csproj"
+            "C:\\LAB\\gamePlay\\IPV4Learning\\Infra\\Infra.csproj": {
+              "projectPath": "C:\\LAB\\gamePlay\\IPV4Learning\\Infra\\Infra.csproj"
             },
-            "C:\\Users\\anabr\\Documents\\IPV4Learning\\Service\\Service.csproj": {
-              "projectPath": "C:\\Users\\anabr\\Documents\\IPV4Learning\\Service\\Service.csproj"
+            "C:\\LAB\\gamePlay\\IPV4Learning\\Service\\Service.csproj": {
+              "projectPath": "C:\\LAB\\gamePlay\\IPV4Learning\\Service\\Service.csproj"
             }
           }
         }

@@ -10696,11 +10696,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\anabr\\Documents\\IPV4Learning\\NetworkLearningTest\\TestNetWork.csproj",
+      "projectUniqueName": "C:\\LAB\\gamePlay\\IPV4Learning\\NetworkLearningTest\\TestNetWork.csproj",
       "projectName": "TestNetWork",
-      "projectPath": "C:\\Users\\anabr\\Documents\\IPV4Learning\\NetworkLearningTest\\TestNetWork.csproj",
+      "projectPath": "C:\\LAB\\gamePlay\\IPV4Learning\\NetworkLearningTest\\TestNetWork.csproj",
       "packagesPath": "C:\\Users\\anabr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\anabr\\Documents\\IPV4Learning\\NetworkLearningTest\\obj\\",
+      "outputPath": "C:\\LAB\\gamePlay\\IPV4Learning\\NetworkLearningTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -10719,11 +10719,11 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\anabr\\Documents\\IPV4Learning\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\anabr\\Documents\\IPV4Learning\\Domain\\Domain.csproj"
+            "C:\\LAB\\gamePlay\\IPV4Learning\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\LAB\\gamePlay\\IPV4Learning\\Domain\\Domain.csproj"
             },
-            "C:\\Users\\anabr\\Documents\\IPV4Learning\\Service\\Service.csproj": {
-              "projectPath": "C:\\Users\\anabr\\Documents\\IPV4Learning\\Service\\Service.csproj"
+            "C:\\LAB\\gamePlay\\IPV4Learning\\Service\\Service.csproj": {
+              "projectPath": "C:\\LAB\\gamePlay\\IPV4Learning\\Service\\Service.csproj"
             }
           }
         }

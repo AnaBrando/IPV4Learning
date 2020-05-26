@@ -243,3 +243,15 @@ C:\Users\anabr\Documents\IPV4Learning\Service\obj\Debug\netcoreapp2.2\Service.As
 C:\Users\anabr\Documents\IPV4Learning\Service\obj\Debug\netcoreapp2.2\Service.csproj.CopyComplete
 C:\Users\anabr\Documents\IPV4Learning\Service\obj\Debug\netcoreapp2.2\Service.dll
 C:\Users\anabr\Documents\IPV4Learning\Service\obj\Debug\netcoreapp2.2\Service.pdb
+C:\LAB\gamePlay\IPV4Learning\Service\bin\Debug\netcoreapp2.2\Service.deps.json
+C:\LAB\gamePlay\IPV4Learning\Service\bin\Debug\netcoreapp2.2\Service.dll
+C:\LAB\gamePlay\IPV4Learning\Service\bin\Debug\netcoreapp2.2\Service.pdb
+C:\LAB\gamePlay\IPV4Learning\Service\bin\Debug\netcoreapp2.2\Domain.dll
+C:\LAB\gamePlay\IPV4Learning\Service\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\LAB\gamePlay\IPV4Learning\Service\obj\Debug\netcoreapp2.2\Service.csprojAssemblyReference.cache
+C:\LAB\gamePlay\IPV4Learning\Service\obj\Debug\netcoreapp2.2\Service.csproj.CoreCompileInputs.cache
+C:\LAB\gamePlay\IPV4Learning\Service\obj\Debug\netcoreapp2.2\Service.AssemblyInfoInputs.cache
+C:\LAB\gamePlay\IPV4Learning\Service\obj\Debug\netcoreapp2.2\Service.AssemblyInfo.cs
+C:\LAB\gamePlay\IPV4Learning\Service\obj\Debug\netcoreapp2.2\Service.csproj.CopyComplete
+C:\LAB\gamePlay\IPV4Learning\Service\obj\Debug\netcoreapp2.2\Service.dll
+C:\LAB\gamePlay\IPV4Learning\Service\obj\Debug\netcoreapp2.2\Service.pdb

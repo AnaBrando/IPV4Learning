@@ -20,14 +20,14 @@
 
             }
         </div>
+        
         <div class="col-md-6 col-sm-3 align-center text-center">
+            <a onclick="mostraAjuda()" href="#" id="ajuda">Ajuda</a>
             @{
-                <a href="#" onclick="mostraAjuda()" class="text-center collapse" data-toggle="collapse" data-target="#tabelaVerdade" style="color:darkblue" id="ajuda">Ajuda</a>
-                <img style="display:none" src="~/img/tabelaverdade.png" id="tabelaVerdade" />
+                <img style="display:none" src="~/img/tabelaverdade.png" id="tabelaVerdade" width="300"/>
                 <p hidden id="rangers">@Html.Raw(Json.Serialize(Model.Select(x => x.networkBinary)))</p>
             }
         </div>
-        
         <div class="col-md-3 col-sm-3">
             <label>
                 <img src="~/img/broadcast.png" width="50"><input type="text" name="broadcast" disabled id="broadcast" />
@@ -43,65 +43,7 @@
         <div class="col-md-3 col-sm-3">
 
         </div>
-        <div class="col-md-6 col-sm-6" style="text-align:center;" id="concluido">
-            <div class="col-md-3 col-sm-3 decimal" style="display:none">
-                <table>
-                    <thead>
-                        <tr>
-                            <th>1</th>
-                            <th>2</th>
-                            <th>4</th>
-                            <th>8</th>
-                            <th>16</th>
-                            <th>32</th>
-                            <th>64</th>
-                            <th>128</th>
-                            <th></th>
-                            <th>1</th>
-                            <th>2</th>
-                            <th>4</th>
-                            <th>8</th>
-                            <th>16</th>
-                            <th>32</th>
-                            <th>64</th>
-                            <th>128</th>
-                            <th></th>
-                            <th>1</th>
-                            <th>2</th>
-                            <th>4</th>
-                            <th>8</th>
-                            <th>16</th>
-                            <th>32</th>
-                            <th>64</th>
-                            <th>128</th>
-                            <th></th>
-                            <th>1</th>
-                            <th>2</th>
-                            <th>4</th>
-                            <th>8</th>
-                            <th>16</th>
-                            <th>32</th>
-                            <th>64</th>
-                            <th>128</th>
-                        </tr>
-
-                    </thead>
-                    <tbody>
-                        <tr>
-                            @{
-                                var rede = Model.Select(x => x.networkBinary).FirstOrDefault();
-                                for (int i = rede.Length; i >= 0 ; i++)
-                                {
-                                    <td style="font-size:1.3em">
-                                        @Html.DisplayFor(x => i)
-                                    </td>
-                                }
-                            }
-                        </tr>
-
-                    </tbody>
-                </table>
-            </div>
+        <div class="col-md-9 col-sm-9">
             @foreach (var item in Model)
             {
                 <p style="font-size:1.3em;letter-spacing:1.5px;">
@@ -111,14 +53,19 @@
                 <p style="font-size:1.3em;letter-spacing:1.5px;">
                     @Html.DisplayFor(m => m.FirstOrDefault().maskBinary)
                 </p>
-                <label id="sucesso">
-                    <span class="text-center">Descubra o Endereço da Rede:</span>
 
-                </label><br />
             }
-            <div class="decimal" style="display:none">
-                
-            </div>
+            <label id="sucesso" class="text-center">
+                <span class="text-center">Descubra o Endereço da Rede:</span>
+            </label><br />
+        </div>
+
+    </div>
+    <div class="row">
+        <div class="col-md-3 col-sm-3">
+
+        </div>
+        <div class="col-md-9 col-sm-9 align-items-center">
             <form action="#" name="addressrede">
                 <input type="text" class="binary" style="width:100px"
                        name="rede"
@@ -143,21 +90,15 @@
                 <button type="button" class="btn btn-success" id="verificar">Enviar</button>
             </form>
         </div>
-       
+
+
+
     </div>
 </div>
-<script>
-    document.querySelector("#octeto1").value = '11101100';
-    document.querySelector("#octeto2").value = '01100000';
-    document.querySelector("#octeto3").value = '00010010';
-    document.querySelector("#octeto4").value = '10000000';
-</script>
 @section Scripts{
-    
+
     @*<script src="~/js/game/access.js"></script>*@
-    <script src="~/js/game/Game.js"></script>
     <script src="~/js/game/GamePlayValidation.js"></script>
-    <script src="~/js/game/Octeto.js"></script>
     @*<script type="module" src="~/js/game/Resposta.js"></script>*@
 }
 

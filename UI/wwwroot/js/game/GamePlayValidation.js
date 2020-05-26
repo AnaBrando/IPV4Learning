@@ -1,4 +1,5 @@
 ﻿//#region Init
+var processo=0;
 let rede = document.getElementById("verificar");
 rede.addEventListener("click", function (e){
     e.preventDefault;
@@ -29,7 +30,7 @@ function verificar() {
     let octeto3 = document.querySelector("#octeto3").value;
     let octeto4 = document.querySelector("#octeto4").value;
 
-    var processo;
+
 
     if (octeto1 !== reposta1) {
         setTimeout(octetoErrado(classeInputs[0]), 2000);
@@ -80,7 +81,7 @@ function respostaCorreta(respostaCerta,x) {
                 rede = rede + enderecoRede[i].value.toString()+'.';
             }
             rede = rede.substring(0,35);
-            return MostrarRede(rede);
+            return progressoAluno(rede);
         }
         
     }
@@ -88,38 +89,44 @@ function respostaCorreta(respostaCerta,x) {
 
 //#endregion
 
-//#region MostrarRede
-function MostrarRede(rede) {
-    let conteudo = document.getElementById("concluido");
-    conteudo.classList.add("concluido");
+////#region MostrarRede
+//function MostrarRede(rede) {
+//    let conteudo = document.getElementById("concluido");
+//    conteudo.classList.add("concluido");
     
-    setTimeout(desaper(rede),3000);
-    //conteudo.innerHTML(rede);
-}
+//    setTimeout(desaper(rede),3000);
+//    //conteudo.innerHTML(rede);
+//}
 
-function desaper(rede) {
-    let inputs = document.querySelectorAll(".binary");
-    inputs.forEach(x => x.classList.add("redeDescoberta"))
-    let x = document.querySelector('#sucesso');
-    x.classList.add('sucesso');
-    //x.innerHTML = rede;
-    let decimais = document.querySelectorAll(".decimal");
-    decimais.forEach(x => x.style.display = 'block');
-    let broadcast = document.getElementById("broadcast");
-    broadcast.disabled = false;
-    let host = document.getElementById("host");
-    host.disabled = false;
-    console.log(broadcast);
-    console.log(host);
-   // x.classList("redeDescoberta");
-}
+//function desaper(rede) {
+//    let inputs = document.querySelectorAll(".binary");
+//    inputs.forEach(x => x.classList.add("redeDescoberta"))
+//    let x = document.querySelector('#sucesso');
+//    x.classList.add('sucesso');
+//    //x.innerHTML = rede;
+//    let decimais = document.querySelectorAll(".decimal");
+//    decimais.forEach(x => x.style.display = 'block');
+//    let broadcast = document.getElementById("broadcast");
+//    broadcast.disabled = false;
+//    let host = document.getElementById("host");
+//    host.disabled = false;
+//    console.log(broadcast);
+//    console.log(host);
+//   // x.classList("redeDescoberta");
+//}
 function mostraAjuda() {
     let img = document.querySelector("#tabelaVerdade");
+    let href = document.querySelector("#ajuda");
+    console.log(href);
     img.style.display = 'block';
     img.classList.add("img");
-
+    setTimeout(imgNone, 3000);
 }   
 
+function imgNone() {
+    let img = document.querySelector("#tabelaVerdade");
+    img.style.display = 'none';
+}
 
 //#endregion
 

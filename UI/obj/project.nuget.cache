@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ROCbt3d5EDt23jpnoSx7imM7FTSf179mu/Pa2u3hrzaaC3OwRJbUc266VprFx4q4bXBALjNseFUk8O/etXvkEg==",
+  "dgSpecHash": "hjWUJJkInzpopdIsCAas6HmjkqAFVMTRJuxfKn1P/qZLUaOQs4mF9oc/rkGlTcaPSDpdcDhTC8akJRNz3NMLBg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\anabr\\Documents\\IPV4Learning\\UI\\UI.csproj",
+  "projectFilePath": "C:\\LAB\\gamePlay\\IPV4Learning\\UI\\UI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\anabr\\.nuget\\packages\\mailkit\\2.2.0\\mailkit.2.2.0.nupkg.sha512",
     "C:\\Users\\anabr\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.6\\microsoft.aspnet.webapi.client.5.2.6.nupkg.sha512",

@@ -227,3 +227,11 @@ C:\Users\anabr\Documents\IPV4Learning\Domain\obj\Debug\netcoreapp2.2\Domain.Asse
 C:\Users\anabr\Documents\IPV4Learning\Domain\obj\Debug\netcoreapp2.2\Domain.AssemblyInfo.cs
 C:\Users\anabr\Documents\IPV4Learning\Domain\obj\Debug\netcoreapp2.2\Domain.dll
 C:\Users\anabr\Documents\IPV4Learning\Domain\obj\Debug\netcoreapp2.2\Domain.pdb
+C:\LAB\gamePlay\IPV4Learning\Domain\bin\Debug\netcoreapp2.2\Domain.deps.json
+C:\LAB\gamePlay\IPV4Learning\Domain\bin\Debug\netcoreapp2.2\Domain.dll
+C:\LAB\gamePlay\IPV4Learning\Domain\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\LAB\gamePlay\IPV4Learning\Domain\obj\Debug\netcoreapp2.2\Domain.csproj.CoreCompileInputs.cache
+C:\LAB\gamePlay\IPV4Learning\Domain\obj\Debug\netcoreapp2.2\Domain.AssemblyInfoInputs.cache
+C:\LAB\gamePlay\IPV4Learning\Domain\obj\Debug\netcoreapp2.2\Domain.AssemblyInfo.cs
+C:\LAB\gamePlay\IPV4Learning\Domain\obj\Debug\netcoreapp2.2\Domain.dll
+C:\LAB\gamePlay\IPV4Learning\Domain\obj\Debug\netcoreapp2.2\Domain.pdb

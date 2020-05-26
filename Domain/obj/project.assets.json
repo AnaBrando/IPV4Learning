@@ -694,11 +694,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\anabr\\Documents\\IPV4Learning\\Domain\\Domain.csproj",
+      "projectUniqueName": "C:\\LAB\\gamePlay\\IPV4Learning\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "C:\\Users\\anabr\\Documents\\IPV4Learning\\Domain\\Domain.csproj",
+      "projectPath": "C:\\LAB\\gamePlay\\IPV4Learning\\Domain\\Domain.csproj",
       "packagesPath": "C:\\Users\\anabr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\anabr\\Documents\\IPV4Learning\\Domain\\obj\\",
+      "outputPath": "C:\\LAB\\gamePlay\\IPV4Learning\\Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

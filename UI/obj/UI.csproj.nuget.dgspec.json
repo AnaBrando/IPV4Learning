@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\anabr\\Documents\\IPV4Learning\\UI\\UI.csproj": {}
+    "C:\\LAB\\gamePlay\\IPV4Learning\\UI\\UI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\anabr\\Documents\\IPV4Learning\\CrossCutting\\CrossCutting.csproj": {
+    "C:\\LAB\\gamePlay\\IPV4Learning\\CrossCutting\\CrossCutting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\anabr\\Documents\\IPV4Learning\\CrossCutting\\CrossCutting.csproj",
+        "projectUniqueName": "C:\\LAB\\gamePlay\\IPV4Learning\\CrossCutting\\CrossCutting.csproj",
         "projectName": "CrossCutting",
-        "projectPath": "C:\\Users\\anabr\\Documents\\IPV4Learning\\CrossCutting\\CrossCutting.csproj",
+        "projectPath": "C:\\LAB\\gamePlay\\IPV4Learning\\CrossCutting\\CrossCutting.csproj",
         "packagesPath": "C:\\Users\\anabr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\anabr\\Documents\\IPV4Learning\\CrossCutting\\obj\\",
+        "outputPath": "C:\\LAB\\gamePlay\\IPV4Learning\\CrossCutting\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,8 +30,8 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "C:\\Users\\anabr\\Documents\\IPV4Learning\\Service\\Service.csproj": {
-                "projectPath": "C:\\Users\\anabr\\Documents\\IPV4Learning\\Service\\Service.csproj"
+              "C:\\LAB\\gamePlay\\IPV4Learning\\Service\\Service.csproj": {
+                "projectPath": "C:\\LAB\\gamePlay\\IPV4Learning\\Service\\Service.csproj"
               }
             }
           }
@@ -94,14 +94,14 @@
         }
       }
     },
-    "C:\\Users\\anabr\\Documents\\IPV4Learning\\Domain\\Domain.csproj": {
+    "C:\\LAB\\gamePlay\\IPV4Learning\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\anabr\\Documents\\IPV4Learning\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\LAB\\gamePlay\\IPV4Learning\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\anabr\\Documents\\IPV4Learning\\Domain\\Domain.csproj",
+        "projectPath": "C:\\LAB\\gamePlay\\IPV4Learning\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\anabr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\anabr\\Documents\\IPV4Learning\\Domain\\obj\\",
+        "outputPath": "C:\\LAB\\gamePlay\\IPV4Learning\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -152,14 +152,14 @@
         }
       }
     },
-    "C:\\Users\\anabr\\Documents\\IPV4Learning\\Infra\\Infra.csproj": {
+    "C:\\LAB\\gamePlay\\IPV4Learning\\Infra\\Infra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\anabr\\Documents\\IPV4Learning\\Infra\\Infra.csproj",
+        "projectUniqueName": "C:\\LAB\\gamePlay\\IPV4Learning\\Infra\\Infra.csproj",
         "projectName": "Infra",
-        "projectPath": "C:\\Users\\anabr\\Documents\\IPV4Learning\\Infra\\Infra.csproj",
+        "projectPath": "C:\\LAB\\gamePlay\\IPV4Learning\\Infra\\Infra.csproj",
         "packagesPath": "C:\\Users\\anabr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\anabr\\Documents\\IPV4Learning\\Infra\\obj\\",
+        "outputPath": "C:\\LAB\\gamePlay\\IPV4Learning\\Infra\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -178,14 +178,14 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "C:\\Users\\anabr\\Documents\\IPV4Learning\\CrossCutting\\CrossCutting.csproj": {
-                "projectPath": "C:\\Users\\anabr\\Documents\\IPV4Learning\\CrossCutting\\CrossCutting.csproj"
+              "C:\\LAB\\gamePlay\\IPV4Learning\\CrossCutting\\CrossCutting.csproj": {
+                "projectPath": "C:\\LAB\\gamePlay\\IPV4Learning\\CrossCutting\\CrossCutting.csproj"
               },
-              "C:\\Users\\anabr\\Documents\\IPV4Learning\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\anabr\\Documents\\IPV4Learning\\Domain\\Domain.csproj"
+              "C:\\LAB\\gamePlay\\IPV4Learning\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\LAB\\gamePlay\\IPV4Learning\\Domain\\Domain.csproj"
               },
-              "C:\\Users\\anabr\\Documents\\IPV4Learning\\Service\\Service.csproj": {
-                "projectPath": "C:\\Users\\anabr\\Documents\\IPV4Learning\\Service\\Service.csproj"
+              "C:\\LAB\\gamePlay\\IPV4Learning\\Service\\Service.csproj": {
+                "projectPath": "C:\\LAB\\gamePlay\\IPV4Learning\\Service\\Service.csproj"
               }
             }
           }
@@ -234,14 +234,14 @@
         }
       }
     },
-    "C:\\Users\\anabr\\Documents\\IPV4Learning\\Service\\Service.csproj": {
+    "C:\\LAB\\gamePlay\\IPV4Learning\\Service\\Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\anabr\\Documents\\IPV4Learning\\Service\\Service.csproj",
+        "projectUniqueName": "C:\\LAB\\gamePlay\\IPV4Learning\\Service\\Service.csproj",
         "projectName": "Service",
-        "projectPath": "C:\\Users\\anabr\\Documents\\IPV4Learning\\Service\\Service.csproj",
+        "projectPath": "C:\\LAB\\gamePlay\\IPV4Learning\\Service\\Service.csproj",
         "packagesPath": "C:\\Users\\anabr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\anabr\\Documents\\IPV4Learning\\Service\\obj\\",
+        "outputPath": "C:\\LAB\\gamePlay\\IPV4Learning\\Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -260,8 +260,8 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "C:\\Users\\anabr\\Documents\\IPV4Learning\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\anabr\\Documents\\IPV4Learning\\Domain\\Domain.csproj"
+              "C:\\LAB\\gamePlay\\IPV4Learning\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\LAB\\gamePlay\\IPV4Learning\\Domain\\Domain.csproj"
               }
             }
           }
@@ -316,14 +316,14 @@
         }
       }
     },
-    "C:\\Users\\anabr\\Documents\\IPV4Learning\\UI\\UI.csproj": {
+    "C:\\LAB\\gamePlay\\IPV4Learning\\UI\\UI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\anabr\\Documents\\IPV4Learning\\UI\\UI.csproj",
+        "projectUniqueName": "C:\\LAB\\gamePlay\\IPV4Learning\\UI\\UI.csproj",
         "projectName": "UI",
-        "projectPath": "C:\\Users\\anabr\\Documents\\IPV4Learning\\UI\\UI.csproj",
+        "projectPath": "C:\\LAB\\gamePlay\\IPV4Learning\\UI\\UI.csproj",
         "packagesPath": "C:\\Users\\anabr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\anabr\\Documents\\IPV4Learning\\UI\\obj\\",
+        "outputPath": "C:\\LAB\\gamePlay\\IPV4Learning\\UI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -342,17 +342,17 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "C:\\Users\\anabr\\Documents\\IPV4Learning\\CrossCutting\\CrossCutting.csproj": {
-                "projectPath": "C:\\Users\\anabr\\Documents\\IPV4Learning\\CrossCutting\\CrossCutting.csproj"
+              "C:\\LAB\\gamePlay\\IPV4Learning\\CrossCutting\\CrossCutting.csproj": {
+                "projectPath": "C:\\LAB\\gamePlay\\IPV4Learning\\CrossCutting\\CrossCutting.csproj"
               },
-              "C:\\Users\\anabr\\Documents\\IPV4Learning\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\anabr\\Documents\\IPV4Learning\\Domain\\Domain.csproj"
+              "C:\\LAB\\gamePlay\\IPV4Learning\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\LAB\\gamePlay\\IPV4Learning\\Domain\\Domain.csproj"
               },
-              "C:\\Users\\anabr\\Documents\\IPV4Learning\\Infra\\Infra.csproj": {
-                "projectPath": "C:\\Users\\anabr\\Documents\\IPV4Learning\\Infra\\Infra.csproj"
+              "C:\\LAB\\gamePlay\\IPV4Learning\\Infra\\Infra.csproj": {
+                "projectPath": "C:\\LAB\\gamePlay\\IPV4Learning\\Infra\\Infra.csproj"
               },
-              "C:\\Users\\anabr\\Documents\\IPV4Learning\\Service\\Service.csproj": {
-                "projectPath": "C:\\Users\\anabr\\Documents\\IPV4Learning\\Service\\Service.csproj"
+              "C:\\LAB\\gamePlay\\IPV4Learning\\Service\\Service.csproj": {
+                "projectPath": "C:\\LAB\\gamePlay\\IPV4Learning\\Service\\Service.csproj"
               }
             }
           }

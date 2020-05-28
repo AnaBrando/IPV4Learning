@@ -19,29 +19,33 @@
                 </p>
 
             }
+            <p>1° descubra endereço da rede</p>
         </div>
-        
+
         <div class="col-md-6 col-sm-3 align-center text-center">
-            <a onclick="mostraAjuda()" href="#" id="ajuda">Ajuda</a>
-            @{
-                <img style="display:none" src="~/img/tabelaverdade.png" id="tabelaVerdade" width="300"/>
-                <p hidden id="rangers">@Html.Raw(Json.Serialize(Model.Select(x => x.networkBinary)))</p>
-            }
+                <span class="align-center" style="float:right" id="tempo">
+                    
+                </span>
         </div>
         <div class="col-md-3 col-sm-3">
-            <label>
-                <img src="~/img/broadcast.png" width="50"><input type="text" name="broadcast" disabled id="broadcast" />
-            </label>
-            <br />
-            <label>
-                <img src="~/img/tcc.png" width="50" /><input type="text" name="host" disabled id="host" />
-            </label>
+            @if (User.Identity.IsAuthenticated)
+            {
+
+            }
+            @*<label>
+                    <img src="~/img/broadcast.png" width="50"><input type="text" name="broadcast" disabled id="broadcast" />
+                </label>
+                <br />
+                <label>
+                    <img src="~/img/tcc.png" width="50" /><input type="text" name="host" disabled id="host" />
+                </label>*@
         </div>
     </div>
-    <br /><br /><br />
+    <br /><br />
     <div class="row">
-        <div class="col-md-3 col-sm-3">
-
+        <div class="col-md-3 col-sm-3 text-center">
+            <p>IP</p>
+            <p>Mascara</p>
         </div>
         <div class="col-md-9 col-sm-9">
             @foreach (var item in Model)
@@ -55,9 +59,6 @@
                 </p>
 
             }
-            <label id="sucesso" class="text-center">
-                <span class="text-center">Descubra o Endereço da Rede:</span>
-            </label><br />
         </div>
 
     </div>
@@ -65,7 +66,7 @@
         <div class="col-md-3 col-sm-3">
 
         </div>
-        <div class="col-md-9 col-sm-9 align-items-center">
+        <div class="col-md-6 col-sm-6 align-items-center">
             <form action="#" name="addressrede">
                 <input type="text" class="binary" style="width:100px"
                        name="rede"
@@ -87,14 +88,35 @@
                        oninput="this.value=this.value.replace(/[^01]/g,'');"
                        maxlength="8" id="octeto4">
                 <br />
-                <button type="button" class="btn btn-success" id="verificar">Enviar</button>
+
             </form>
+            <div class="col-md-3 col-sm-3">
+                <br />
+                <button type="button" class="btn btn-success"
+                        style="position:relative;left:150%;"
+                        id="verificar">
+                    Enviar
+                </button>
+            </div>
         </div>
-
-
-
     </div>
-</div>
+    <div class="row">
+        <div class="col-md-3 col-sm-3 align-center text-center">
+
+        </div>
+            <div class="col-md-6 col-sm-6 align-center text-center">
+                <a onclick="mostraAjuda()" href="#" id="ajuda">Ajuda</a>
+                @{
+                    <img style="display:none" src="~/img/tabelaverdade.png" id="tabelaVerdade" width="280" />
+                    <p hidden id="rangers">@Html.Raw(Json.Serialize(Model.Select(x => x.networkBinary)))</p>
+                }
+            </div>
+        </div>
+    </div>
+
+
+
+
 @section Scripts{
 
     @*<script src="~/js/game/access.js"></script>*@

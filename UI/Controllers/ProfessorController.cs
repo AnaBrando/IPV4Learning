@@ -59,13 +59,13 @@ namespace UI.Controllers
             if (ModelState.IsValid)
             {
                
-                var user = await _signInManager.UserManager.FindByEmailAsync(loginModel.UserName);
+                var user = await _signInManager.UserManager.FindByEmailAsync(loginModel.Email);
                 var roles = await _signInManager.UserManager.GetRolesAsync(user);
                 
                 var EhProfessor = roles.Where(x => x.Equals("Professor")).Any();
                 if (EhProfessor)
                 { 
-                    var result = await _signInManager.PasswordSignInAsync(loginModel.UserName, loginModel.Password, loginModel.RememberMe, false);
+                    var result = await _signInManager.PasswordSignInAsync(user.UserName, loginModel.Password, loginModel.RememberMe, false);
 
                     if (result.Succeeded)
                         return RedirectToAction("Gerenciamento", "Professor", new { id = user.Id });

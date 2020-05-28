@@ -4,9 +4,9 @@ namespace UI.ViewModels
 {
     public class LoginViewModel
     {
-        [Display(Name = "User Name")]
+        [Display(Name = "Email")]
         [Required(ErrorMessage = "Please enter your user name.")]
-        public string UserName { get; set; }
+        public string Email { get; set; }
 
         [Display(Name = "Password")]
         [Required(ErrorMessage = "Please enter your password.")]

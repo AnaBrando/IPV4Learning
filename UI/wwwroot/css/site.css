@@ -6,11 +6,15 @@ a.navbar-brand {
   text-align: center;
   word-break: break-all;
 }
-
+@media only screen and (min-width: 400px) and (max-height: 768px) {
+    #verificar{
+        left:0;
+    }
+}
 /* Sticky footer styles
 -------------------------------------------------- */
 html {
-  font-size: 14px;
+    font-size: 14px;
 }
 @media (min-width: 768px) {
   html {

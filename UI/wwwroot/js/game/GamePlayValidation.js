@@ -1,5 +1,7 @@
 ﻿//#region Init
-var processo=0;
+var processo = 0;
+let tempo = document.querySelector("#tempo");
+contador(tempo);
 let rede = document.getElementById("verificar");
 rede.addEventListener("click", function (e){
     e.preventDefault;
@@ -54,6 +56,7 @@ function verificar() {
 
     setTimeout(limpar, 1000);
     if (respostaCerta) {
+        console.log(processo);
         respostaCorreta(respostaCerta, processo);
     }
     return respostaCerta;
@@ -89,31 +92,31 @@ function respostaCorreta(respostaCerta,x) {
 
 //#endregion
 
-////#region MostrarRede
-//function MostrarRede(rede) {
-//    let conteudo = document.getElementById("concluido");
-//    conteudo.classList.add("concluido");
+//#region MostrarRede
+function MostrarRede(rede) {
+    let conteudo = document.getElementById("concluido");
+    conteudo.classList.add("concluido");
     
-//    setTimeout(desaper(rede),3000);
-//    //conteudo.innerHTML(rede);
-//}
+    setTimeout(desaper(rede),3000);
+    //conteudo.innerHTML(rede);
+}
 
-//function desaper(rede) {
-//    let inputs = document.querySelectorAll(".binary");
-//    inputs.forEach(x => x.classList.add("redeDescoberta"))
-//    let x = document.querySelector('#sucesso');
-//    x.classList.add('sucesso');
-//    //x.innerHTML = rede;
-//    let decimais = document.querySelectorAll(".decimal");
-//    decimais.forEach(x => x.style.display = 'block');
-//    let broadcast = document.getElementById("broadcast");
-//    broadcast.disabled = false;
-//    let host = document.getElementById("host");
-//    host.disabled = false;
-//    console.log(broadcast);
-//    console.log(host);
-//   // x.classList("redeDescoberta");
-//}
+function desaper(rede) {
+    let inputs = document.querySelectorAll(".binary");
+    inputs.forEach(x => x.classList.add("redeDescoberta"))
+    let x = document.querySelector('#sucesso');
+    x.classList.add('sucesso');
+    //x.innerHTML = rede;
+    let decimais = document.querySelectorAll(".decimal");
+    decimais.forEach(x => x.style.display = 'block');
+    let broadcast = document.getElementById("broadcast");
+    broadcast.disabled = false;
+    let host = document.getElementById("host");
+    host.disabled = false;
+    console.log(broadcast);
+    console.log(host);
+   // x.classList("redeDescoberta");
+}
 function mostraAjuda() {
     let img = document.querySelector("#tabelaVerdade");
     let href = document.querySelector("#ajuda");
@@ -131,3 +134,8 @@ function imgNone() {
 //#endregion
 
 
+function contador(x) {
+    for (var i = 0; i <= 10; i++) {
+        x.innerHTML = i;
+    }
+}

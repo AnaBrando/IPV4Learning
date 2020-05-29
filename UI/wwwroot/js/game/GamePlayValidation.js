@@ -135,7 +135,11 @@ function imgNone() {
 
 
 function contador(x) {
-    for (var i = 0; i <= 10; i++) {
+    var i = 0;
+    setInterval(function () {
+        while(i !== 10)
         x.innerHTML = i;
-    }
+        i++;
+    });
+   
 }

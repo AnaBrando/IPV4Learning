@@ -1105,3 +1105,5 @@ C:\Users\anabr\Documents\tcc\IPV4Learning\UI\obj\Debug\netcoreapp2.2\UI.csproj.C
 C:\Users\anabr\Documents\tcc\IPV4Learning\UI\obj\Debug\netcoreapp2.2\UI.dll
 C:\Users\anabr\Documents\tcc\IPV4Learning\UI\obj\Debug\netcoreapp2.2\UI.pdb
 C:\Users\anabr\Documents\tcc\IPV4Learning\UI\obj\Debug\netcoreapp2.2\UI.genruntimeconfig.cache
+C:\LAB\IPV4Learning\UI\obj\Debug\netcoreapp2.2\UI.csproj.CoreCompileInputs.cache
+C:\LAB\IPV4Learning\UI\obj\Debug\netcoreapp2.2\UI.genruntimeconfig.cache

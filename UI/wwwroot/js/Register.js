@@ -3,7 +3,7 @@ var questionNum = 0;
 const output = document.querySelector("#output");
 var botao = document.querySelector("#start");
 const introducao = [
-    "Olá Bem Vindo ao Network Learning!", "Bora aprender ipv4?"
+    "Olá Bem Vindo ao Quizz!", "Bora aprender?"
 ];
 y();
 function y() {

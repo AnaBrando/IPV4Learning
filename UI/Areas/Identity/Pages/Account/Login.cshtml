@@ -5,10 +5,26 @@
     ViewData["Title"] = "Entre no portal";
 }
 
-<h1>@ViewData["Title"]</h1>
+    <div class="row">
+        <div class="col-md-4">
+
+        </div>
+        <div class="col-md-4 align-items-center">
+            <img class="img-center center-block" style="position:relative;left:28%;" src="~/img/aluno.png" width="100" />
+        </div>
+        <div class="col-md-4">
+
+        </div>
+        
+    </div>
 <div class="row">
     <div class="col-md-4">
+
+    </div>
+    <div class="col-md-4">
+       
         <section>
+
             <form id="account" method="post">
                 <h4>Use seu email para logar</h4>
                 <hr />
@@ -23,21 +39,24 @@
                     <input asp-for="Input.Password" class="form-control" />
                     <span asp-validation-for="Input.Password" class="text-danger"></span>
                 </div>
-                <div class="form-group">
+                <div class="form-group d-inline-flex">
                     <div class="checkbox">
                         <label asp-for="Input.RememberMe">
                             <input asp-for="Input.RememberMe" />
                             @Html.DisplayNameFor(m => m.Input.RememberMe)
                         </label>
                     </div>
+
+                    <div class="form-group">
+                        <button type="submit" style="position:relative;left:200%;" class="btn btn-primary" id="login">Log in</button>
+                    </div>
                 </div>
-                <div class="form-group">
-                    <button type="submit" class="btn btn-primary">Log in</button>
-                </div>
+               
                 <div class="form-group">
                     <p>
                         <a id="forgot-password" asp-page="./ForgotPassword">Forgot your password?</a>
                     </p>
+                    <br />
                     <p>
                         <a asp-page="./Register" asp-route-returnUrl="@Model.ReturnUrl">Register as a new user</a>
                     </p>
@@ -45,45 +64,9 @@
             </form>
         </section>
     </div>
-    <div class="col-md-8 col-md-offset-2">
-        <section style="text-align:justify">
-            <h4>IPV4 Learning</h4>
-            <hr />
-            @{
-                if ((Model.ExternalLogins?.Count ?? 0) == 0)
-                {
-                    <div>
-                                    <p>
-                                        É um fato conhecido de todos que um leitor se distrairá com o conteúdo de texto legível de uma página quando estiver examinando sua diagramação.
-                                        A vantagem de usar Lorem Ipsum é que ele tem uma distribuição normal de letras, ao contrário de "Conteúdo aqui, conteúdo aqui", 
-                                        fazendo com que ele tenha uma aparência similar a de um texto legível. 
-                                        Muitos softwares de publicação e editores de páginas na internet agora usam Lorem Ipsum como texto-modelo padrão,
-                                        e uma rápida busca por 'lorem ipsum' mostra vários websites ainda em sua fase de construção. 
-                                        Várias versões novas surgiram ao longo dos anos, eventualmente por acidente, e às vezes de propósito (injetando humor, e coisas do gênero).
-                                    </p>
-                    </div>
-                }
-                else
-                {
-                    <form id="external-account" asp-page="./ExternalLogin" asp-route-returnUrl="@Model.ReturnUrl" method="post" class="form-horizontal">
-                        <div>
-                            <p>
-                                @foreach (var provider in Model.ExternalLogins)
-                                {
-                                    <button type="submit" class="btn btn-primary" name="provider" value="@provider.Name" title="Log in using your @provider.DisplayName account">@provider.DisplayName</button>
-                                }
-                            </p>
-                        </div>
-                    </form>
-                }
-            }
-            <div class="canvas" style="background-color:darkslategrey;height:300px">
-                .
-            </div>
-        </section>
-    </div>
-</div>
 
-@section Scripts {
-    <partial name="_ValidationScriptsPartial" />
-}
+    </div>
+
+    @section Scripts {
+        <partial name="_ValidationScriptsPartial" />
+    }
